@@ -11,8 +11,21 @@ presents everything in a **Streamlit web dashboard** with interactive **Plotly**
 
 🇩🇪 Deutsche Kurzfassung: siehe unten · Full German user guide: [README.de.md](README.de.md)
 
-![Dashboard screenshot](docs/screenshot_dashboard.png)
-<!-- TODO: add screenshots to docs/ (dashboard, H1 detail chart, backtest R-curve) -->
+![Dashboard: daily bias with traceable reasons](docs/screenshot_dashboard.png)
+
+## Screenshots
+
+**H1 detail chart** – session/day/week highs & lows, Fair Value Gaps and Order Blocks, draw on liquidity
+
+![H1 detail chart](docs/screenshot_h1_chart.png)
+
+**Full text analysis** – sweep points, pre-trade checklist and summary
+
+![Text analysis](docs/screenshot_analysis_text.png)
+
+**Trade log** – document your own backtest trades, results calculated in R
+
+![Trade log](docs/screenshot_trade_log.png)
 
 ## Features
 

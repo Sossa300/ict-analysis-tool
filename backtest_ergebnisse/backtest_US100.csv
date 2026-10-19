@@ -1,0 +1,506 @@
+﻿Symbol;Datum;Bias;Modus;Konfidenz;Preis_15_30;Schluss;Bewegung;Hoch_danach;Tief_danach;genau;K_Daily_Trend;K_Daily_Trend_BOS;K_Daily_Trend_MSS;K_Kerzen_MSS;K_Weekly_Trend;K_H4_Trend;K_Daily_und_H4_gleich;K_PD_Fortsetzung;K_PD_Reversal;K_Zone_Premium_Discount;K_H4_Umkehr;H4_Phase;in_Bias_Richtung;Richtung_richtig;MFE;MAE;MFE_groesser_MAE;DOL;DOL_erreicht
+US100;2024-10-17;neutral;;0;20559,25;20383,5;-175,75;20594,75;20354,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2024-10-18;bearish;Daily;80;20478,75;20484,25;5,5;20529,75;20433,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;-5,5;False;45,75;51,0;False;20276,75;False
+US100;2024-10-21;neutral;;50;20400,5;20538,75;138,25;20554,5;20345,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2024-10-22;bullish;Daily;70;20394,5;20519,0;124,5;20602,25;20363,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;124,5;True;207,75;31,25;True;20554,5;True
+US100;2024-10-23;neutral;;0;20454,75;20274,5;-180,25;20462,75;20079,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-10-24;bearish;Daily;95;20383,0;20391,0;8,0;20413,5;20261,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-8,0;False;121,25;30,5;True;20079,0;False
+US100;2024-10-25;bearish;Daily;55;20492,0;20476,0;-16,0;20707,25;20460,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;16,0;True;32,0;215,25;False;20261,75;False
+US100;2024-10-28;neutral;;0;20555,5;20507,25;-48,25;20618,0;20486,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2024-10-29;bearish;Daily;55;20515,0;20708,25;193,25;20760,25;20494,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;-193,25;False;20,25;245,25;False;20079,0;False
+US100;2024-10-30;bullish;Daily;70;20631,5;20507,0;-124,5;20699,5;20472,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-124,5;False;68,0;158,75;False;20983,75;False
+US100;2024-10-31;neutral;;0;20166,0;20043,0;-123,0;20201,25;20008,5;nein (H1);bullish;;bullish;;bullish;bearish;;;bearish;bullish;;H4-Retracement;;;;;;;
+US100;2024-11-01;bearish;Daily;75;20171,75;20170,25;-1,5;20288,0;20122,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;1,5;True;49,0;116,25;False;20008,5;False
+US100;2024-11-04;neutral;;50;20147,25;20114,5;-32,75;20226,75;20013,25;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2024-11-05;neutral;;0;20125,5;20362,75;237,25;20385,5;20107,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bullish;bullish;;H4-Retracement beendet;;;;;;;
+US100;2024-11-06;neutral;;0;20686,75;20922,5;235,75;20935,25;20644,0;nein (H1);bearish;;bearish;;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2024-11-07;neutral;;50;20985,5;21225,25;239,75;21253,0;20982,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2024-11-08;neutral;;50;21162,5;21228,5;66,0;21265,0;21156,25;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2024-11-11;neutral;;0;21301,0;21210,25;-90,75;21307,25;21098,25;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-11-12;neutral;;50;21221,75;21178,0;-43,75;21251,5;21054,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-11-13;bullish;Daily;70;21174,25;21166,0;-8,25;21268,5;21056,5;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;-8,25;False;94,25;117,75;False;21251,5;True
+US100;2024-11-14;neutral;;0;21134,75;20981,75;-153,0;21174,75;20950,5;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-11-15;bearish;Daily;75;20811,25;20503,25;-308,0;20818,5;20405,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;308,0;True;406,0;7,25;True;20323,5;False
+US100;2024-11-18;bearish;Daily;75;20554,75;20630,5;75,75;20724,25;20501,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-75,75;False;53,75;169,5;False;20405,25;False
+US100;2024-11-19;neutral;;25;20421,75;20754,5;332,75;20792,5;20382,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bullish;;H4-Retracement;;;;;;;
+US100;2024-11-20;neutral;;0;20792,75;20738,75;-54,0;20793,25;20477,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bullish;;H4-Retracement;;;;;;;
+US100;2024-11-21;neutral;;50;20844,75;20793,75;-51,0;20905,75;20514,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bullish;;H4-Retracement;;;;;;;
+US100;2024-11-22;neutral;;0;20784,5;20878,75;94,25;20880,0;20722,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-11-25;neutral;;45;20998,75;20899,5;-99,25;21081,0;20780,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-11-26;bullish;Daily;70;20943,25;20998,75;55,5;21024,75;20903,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;55,5;True;81,5;39,5;True;21081,0;False
+US100;2024-11-27;bullish;Daily;70;20953,75;20806,5;-147,25;20955,5;20675,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;-147,25;False;1,75;278,75;False;21024,75;False
+US100;2024-11-29;neutral;;45;20828,75;20990,5;161,75;21017,5;20805,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-02;bullish;Daily;70;21027,0;21211,0;184,0;21259,75;21024,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;184,0;True;232,75;2,75;True;21081,0;True
+US100;2024-12-03;bullish;Daily;85;21196,25;21324,25;128,0;21329,0;21134,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;128,0;True;132,75;62,0;True;21259,75;True
+US100;2024-12-04;bullish;Daily;60;21447,75;21517,0;69,25;21548,5;21388,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;69,25;True;100,75;59,5;True;;
+US100;2024-12-05;bullish;Daily;85;21527,0;21453,25;-73,75;21567,25;21437,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-73,75;False;40,25;89,5;False;21548,5;True
+US100;2024-12-06;neutral;;0;21490,75;21631,75;141,0;21669,25;21486,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-09;bullish;Daily;60;21620,5;21473,25;-147,25;21648,75;21436,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-147,25;False;28,25;184,5;False;;
+US100;2024-12-10;neutral;;0;21501,75;21434,75;-67,0;21606,75;21352,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-11;bearish;Daily;75;21528,5;21755,75;227,25;21820,0;21526,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-227,25;False;2,25;291,5;False;21352,75;False
+US100;2024-12-12;bullish;Daily;75;21683,75;21630,25;-53,5;21745,0;21604,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-53,5;False;61,25;79,5;False;21820,0;False
+US100;2024-12-13;neutral;;25;21821,5;21760,5;-61,0;21908,0;21666,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2024-12-16;neutral;;0;21910,75;22111,75;201,0;22152,5;21880,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-17;bullish;Daily;70;22047,75;22005,0;-42,75;22080,5;21942,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-42,75;False;32,75;105,5;False;22152,5;False
+US100;2024-12-18;neutral;;45;21987,75;21176,75;-811,0;22053,5;21034,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-19;bearish;Daily;75;21346,75;21145,5;-201,25;21424,25;21080,0;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;201,25;True;266,75;77,5;True;21134,25;True
+US100;2024-12-20;neutral;;45;20947,0;21552,5;605,5;21552,5;20920,0;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-23;neutral;;0;21572,5;21737,25;164,75;21776,75;21477,0;nein (H1);bearish;;bearish;;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2024-12-24;bullish;Daily;70;21826,0;22033,0;207,0;22034,25;21799,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;207,0;True;208,25;26,75;True;21776,75;True
+US100;2024-12-26;bullish;Daily;70;21950,0;21984,25;34,25;22076,25;21870,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;34,25;True;126,25;79,5;True;22152,5;False
+US100;2024-12-27;neutral;;0;21894,25;21719,75;-174,5;21897,5;21498,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2024-12-30;bearish;Daily;75;21378,75;21388,25;9,5;21571,0;21253,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-9,5;False;125,75;192,25;False;20745,0;False
+US100;2024-12-31;bearish;Daily;70;21461,5;21234,25;-227,25;21488,5;21182,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;227,25;True;279,5;27,0;True;21253,0;True
+US100;2025-01-02;bearish;Daily;70;21417,75;21182,5;-235,25;21444,0;20983,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;235,25;True;434,0;26,25;True;21182,0;True
+US100;2025-01-03;neutral;;0;21228,25;21493,0;264,75;21559,25;21228,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-01-06;bullish;Daily;70;21749,5;21780,5;31,0;21896,75;21641,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;31,0;True;147,25;107,75;True;22098,0;False
+US100;2025-01-07;bullish;Daily;70;21778,25;21375,5;-402,75;21806,0;21279,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-402,75;False;27,75;498,75;False;21896,75;False
+US100;2025-01-08;neutral;;50;21376,75;21325,5;-51,25;21431,75;21166,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2025-01-09;neutral;;0;21304,0;21301,5;-2,5;21310,25;21265,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bullish;;H4-Retracement;;;;;;;
+US100;2025-01-10;neutral;;25;21115,5;20997,75;-117,75;21197,25;20874,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bullish;;H4-Retracement;;;;;;;
+US100;2025-01-13;bearish;Daily;70;20810,0;20992,25;182,25;20996,5;20702,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-182,25;False;108,0;186,5;False;20675,0;False
+US100;2025-01-14;bearish;H4;70;21057,75;20977,5;-80,25;21129,5;20773,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4 läuft mit Daily;80,25;True;284,0;71,75;True;20694,0;False
+US100;2025-01-15;bearish;Daily;85;21281,5;21376,75;95,25;21452,75;21186,75;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bearish;bullish;;H4 läuft mit Daily;-95,25;False;94,75;171,25;False;20773,75;False
+US100;2025-01-16;bullish;Daily;75;21474,0;21214,25;-259,75;21500,25;21172,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-259,75;False;26,25;301,75;False;21896,75;False
+US100;2025-01-17;neutral;;0;21541,75;21589,0;47,25;21682,5;21481,25;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2025-01-21;neutral;;45;21725,5;21772,5;47,0;21783,5;21525,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-01-22;bullish;Daily;70;21930,5;21985,0;54,5;22093,5;21899,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;54,5;True;163,0;31,5;True;22098,0;False
+US100;2025-01-23;bullish;Daily;85;21896,5;22021,75;125,25;22050,5;21866,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;125,25;True;154,0;30,5;True;22093,5;False
+US100;2025-01-24;bullish;Daily;60;22010,75;21907,75;-103,0;22078,25;21844,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;-103,0;False;67,5;166,75;False;22098,0;False
+US100;2025-01-27;bullish;Daily;75;21158,5;21304,5;146,0;21418,5;21095,0;nein (H1);bullish;bullish;;;bullish;bearish;;;;bullish;;H4-Retracement;146,0;True;260,0;63,5;True;22078,25;False
+US100;2025-01-28;bearish;Daily;75;21301,0;21558,5;257,5;21626,0;21159,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-257,5;False;141,5;325,0;False;20763,75;False
+US100;2025-01-29;bearish;Daily;55;21602,25;21572,25;-30,0;21627,0;21367,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;30,0;True;235,25;24,75;True;21159,5;False
+US100;2025-01-30;bearish;Daily;80;21668,5;21608,75;-59,75;21748,75;21420,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;59,75;True;248,5;80,25;True;21367,0;False
+US100;2025-01-31;bearish;Daily;80;21791,25;21571,0;-220,25;21965,75;21533,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;220,25;True;257,5;174,5;True;21420,0;False
+US100;2025-02-03;bearish;Daily;75;21202,25;21553,25;351,0;21579,75;21113,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bearish;bullish;;H4-Retracement beendet;-351,0;False;89,0;377,5;False;20763,75;False
+US100;2025-02-04;neutral;;0;21434,5;21583,5;149,0;21694,0;21405,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-02-05;neutral;;0;21529,25;21770,5;241,25;21795,0;21501,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-02-06;neutral;;0;21775,75;21845,25;69,5;21882,25;21711,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-02-07;bullish;Daily;70;21878,5;21575,25;-303,25;21968,0;21552,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-303,25;False;89,5;325,75;False;21965,75;True
+US100;2025-02-10;bearish;Daily;95;21780,5;21837,0;56,5;21894,0;21744,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-56,5;False;36,5;113,5;False;20943,0;False
+US100;2025-02-11;neutral;;45;21675,5;21792,5;117,0;21871,5;21669,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4-Retracement beendet;;;;;;;
+US100;2025-02-12;neutral;;50;21544,75;21861,75;317,0;21862,5;21510,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2025-02-13;neutral;;0;21877,5;22075,0;197,5;22123,75;21834,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-02-14;neutral;;50;22105,25;22203,5;98,25;22225,0;22090,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-02-18;neutral;;50;22311,75;22224,25;-87,5;22318,25;22102,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-02-19;bullish;Daily;55;22204,5;22222,25;17,75;22299,75;22118,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;17,75;True;95,25;86,5;True;22319,75;False
+US100;2025-02-20;neutral;;50;22203,25;22135,75;-67,5;22225,5;21951,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-02-21;neutral;;50;22224,0;21660,0;-564,0;22236,75;21652,75;nein (H1);bullish;;bullish;;bullish;bearish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-02-24;bearish;Daily;70;21799,75;21427,25;-372,5;21805,25;21407,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;372,5;True;392,25;5,5;True;21652,75;True
+US100;2025-02-25;bearish;Daily;70;21404,25;21196,0;-208,25;21413,75;20990,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;208,25;True;414,25;9,5;True;20943,0;False
+US100;2025-02-26;bearish;Daily;85;21272,75;21272,75;0,0;21409,25;21055,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-0,0;False;217,75;136,5;True;20990,0;False
+US100;2025-02-27;bearish;Daily;60;21307,25;20633,25;-674,0;21381,0;20583,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;674,0;True;724,0;73,75;True;21055,0;True
+US100;2025-02-28;bearish;Daily;85;20601,0;20909,0;308,0;20944,25;20460,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-308,0;False;140,5;343,25;False;20382,5;False
+US100;2025-03-03;neutral;;0;21065,25;20530,75;-534,5;21121,0;20316,75;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-03-04;bearish;Daily;65;20324,5;20537,0;212,5;20732,5;20075,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;-212,5;False;249,25;408,0;False;20008,5;False
+US100;2025-03-05;neutral;;0;20419,75;20611,75;192,0;20725,0;20215,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-03-06;neutral;;40;20325,75;20173,5;-152,25;20513,25;20003,0;nein (H1);bearish;bearish;;;bullish;bullish;;;;bullish;;H4-Retracement;;;;;;;
+US100;2025-03-07;bearish;Daily;80;20066,0;20207,25;141,25;20286,25;19765,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-141,25;False;300,5;220,25;True;20003,0;True
+US100;2025-03-10;neutral;;0;19791,0;19472,0;-319,0;19791,0;19272,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;bullish;bullish;;H4-Retracement beendet;;;;;;;
+US100;2025-03-11;bearish;Daily;60;19523,25;19401,25;-122,0;19686,75;19201,0;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;122,0;True;322,25;163,5;True;;
+US100;2025-03-12;neutral;;0;19643,25;19572,75;-70,5;19727,75;19395,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-03-13;bearish;Daily;60;19367,5;19293,0;-74,5;19570,0;19170,0;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;bearish;bullish;;H4 läuft mit Daily;74,5;True;197,5;202,5;False;;
+US100;2025-03-14;bearish;Daily;85;19545,25;19665,0;119,75;19742,5;19437,0;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-119,75;False;108,25;197,25;False;19170,0;False
+US100;2025-03-17;bearish;Daily;65;19790,0;19831,25;41,25;19959,25;19628,75;nein (H1);bearish;bearish;;;bearish;bullish;;;bearish;bullish;;H4-Retracement;-41,25;False;161,25;169,25;False;19296,75;False
+US100;2025-03-18;bullish;Daily;95;19469,25;19496,75;27,5;19579,0;19397,75;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bullish;;H4-Retracement beendet;27,5;True;109,75;71,5;True;19959,25;False
+US100;2025-03-19;neutral;;50;19618,75;19739,0;120,25;19935,0;19550,0;nein (H1);bearish;;bearish;bearish;bearish;bullish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2025-03-20;bearish;Daily;80;19728,5;19690,5;-38,0;19898,75;19597,75;nein (H1);bearish;;bearish;bearish;bearish;bullish;;;bearish;bearish;;H4-Retracement;38,0;True;130,75;170,25;False;19455,5;False
+US100;2025-03-21;neutral;;50;19970,75;19970,75;0,0;19970,80078125;19970,75;nein (H1);bearish;;bearish;bearish;bearish;bearish;bearish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-03-24;bullish;Daily;75;20315,5;20357,25;41,75;20409,5;20275,0;nein (H1);bullish;;bullish;;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;41,75;True;94,0;40,5;True;21453,75;False
+US100;2025-03-25;bullish;Daily;70;20414,5;20517,25;102,75;20524,75;20371,0;nein (H1);bullish;;bullish;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;102,75;True;110,25;43,5;True;21453,75;False
+US100;2025-03-26;bullish;Daily;70;20316,5;20090,5;-226,0;20356,25;20045,0;nein (H1);bullish;;bullish;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-226,0;False;39,75;271,5;False;21453,75;False
+US100;2025-03-27;bearish;Daily;75;20076,5;19997,25;-79,25;20199,5;19975,0;nein (H1);bearish;;bearish;bearish;bearish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;79,25;True;101,5;123,0;False;19408,0;False
+US100;2025-03-28;bearish;Daily;70;19856,75;19361,0;-495,75;19879,0;19357,5;nein (H1);bearish;;bearish;bearish;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;495,75;True;499,25;22,25;True;19408,0;True
+US100;2025-03-31;bearish;Daily;60;19220,0;19413,0;193,0;19489,75;18977,0;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-193,0;False;243,0;269,75;False;;
+US100;2025-04-01;neutral;;0;19383,5;19598,0;214,5;19644,0;19261,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-04-02;bullish;Daily;75;19386,5;19152,25;-234,25;20044,25;19076,75;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-234,25;False;657,75;309,75;True;20011,75;True
+US100;2025-04-03;neutral;;50;18850,0;18648,5;-201,5;19074,0;18614,0;nein (H1);bearish;;bearish;bearish;bearish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2025-04-04;bearish;Daily;60;18208,75;17483,25;-725,5;18273,0;17387,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;725,5;True;821,25;64,25;True;;
+US100;2025-04-07;bearish;Daily;60;17168,0;17628,75;460,75;18361,5;16673,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-460,75;False;494,5;1193,5;False;;
+US100;2025-04-08;neutral;;0;17982,0;17232,0;-750,0;18356,75;16973,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-04-09;neutral;;35;17128,25;19353,5;2225,25;19386,75;17121,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-04-10;bullish;Daily;75;18822,5;18501,5;-321,0;18902,25;17919,0;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-321,0;False;79,75;903,5;False;19386,75;False
+US100;2025-04-11;neutral;;50;18491,25;18820,5;329,25;18873,5;18270,0;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-04-14;neutral;;50;19185,5;18902,5;-283,0;19256,0;18737,5;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-04-15;bullish;Daily;75;18936,25;18938,0;1,75;19144,5;18884,25;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;1,75;True;208,25;52,0;True;19256,0;False
+US100;2025-04-16;neutral;;25;18636,5;18369,25;-267,25;18728,25;18116,25;nein (H1);bullish;;bullish;bullish;bearish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-04-17;neutral;;0;18529,75;18427,75;-102,0;18546,75;18261,5;nein (H1);bullish;;bullish;bullish;bearish;bearish;;bearish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-04-21;neutral;;25;18121,25;17914,0;-207,25;18165,0;17700,0;nein (H1);bullish;;bullish;bullish;bearish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-04-22;neutral;;0;18138,0;18359,0;221,0;18513,75;18100,5;nein (H1);bullish;;bullish;bullish;bearish;bearish;;bearish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-04-23;neutral;;0;18966,75;18850,0;-116,75;19165,5;18729,75;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-04-24;bullish;Daily;75;18853,0;19347,5;494,5;19418,0;18824,0;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;494,5;True;565,0;29,0;True;19165,5;True
+US100;2025-04-25;bullish;Daily;70;19245,0;19554,75;309,75;19589,0;19216,25;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;309,75;True;344,0;28,75;True;20011,75;False
+US100;2025-04-28;bullish;Daily;85;19540,0;19483,75;-56,25;19623,0;19257,25;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-56,25;False;83,0;282,75;False;19589,0;True
+US100;2025-04-29;neutral;;0;19450,5;19614,25;163,75;19688,5;19378,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-04-30;neutral;;0;19285,5;19848,5;563,0;19880,0;19103,75;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-05-01;bullish;Daily;80;19954,0;19799,0;-155,0;20125,75;19757,25;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-155,0;False;171,75;196,75;False;20044,25;True
+US100;2025-05-02;neutral;;0;20095,75;20204,5;108,75;20276,75;20020,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-05-05;bullish;Daily;85;20004,25;20042,25;38,0;20191,5;19985,25;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;38,0;True;187,25;19,0;True;20276,75;False
+US100;2025-05-06;neutral;;40;19840,5;19846,75;6,25;20026,25;19739,25;nein (H1);bullish;bullish;;;bearish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-05-07;neutral;;0;19932,25;19957,5;25,25;20053,5;19678,75;nein (H1);bullish;bullish;;;bearish;bearish;;bearish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-05-08;bullish;Daily;60;20175,25;20156,25;-19,0;20337,25;19979,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;;bearish;;H4-Retracement beendet;-19,0;False;162,0;196,25;False;20276,75;True
+US100;2025-05-09;bullish;Daily;80;20232,75;20140,5;-92,25;20279,75;20058,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-92,25;False;47,0;174,75;False;20337,25;False
+US100;2025-05-12;bullish;Daily;60;20916,5;20957,0;40,5;20996,0;20690,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;;bearish;;H4 läuft mit Daily;40,5;True;79,5;226,5;False;21453,75;False
+US100;2025-05-13;bullish;Daily;85;21008,75;21254,75;246,0;21346,5;20972,75;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;246,0;True;337,75;36,0;True;21453,75;False
+US100;2025-05-14;bullish;Daily;85;21325,0;21399,75;74,75;21419,5;21273,75;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;74,75;True;94,5;51,25;True;21453,75;False
+US100;2025-05-15;bullish;Daily;85;21288,0;21395,5;107,5;21529,75;21247,75;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;107,5;True;241,75;40,25;True;21419,5;True
+US100;2025-05-16;bullish;Daily;65;21438,75;21400,25;-38,5;21512,0;21320,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;;bearish;;H4 läuft mit Daily;-38,5;False;73,25;118,25;False;21529,75;False
+US100;2025-05-19;neutral;;40;21212,5;21517,0;304,5;21544,5;21153,25;nein (H1);bullish;bullish;;;bullish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-05-20;bullish;Daily;80;21435,5;21420,0;-15,5;21474,25;21298,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-15,5;False;38,75;137,5;False;21812,75;False
+US100;2025-05-21;neutral;;0;21312,75;21145,5;-167,25;21558,5;21072,75;nein (H1);bullish;bullish;;;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2025-05-22;bearish;Daily;75;21191,25;21214,5;23,25;21337,5;21113,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-23,25;False;77,5;146,25;False;20818,0;False
+US100;2025-05-23;neutral;;45;20801,75;20953,25;151,5;21083,0;20756,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4-Retracement beendet;;;;;;;
+US100;2025-05-26;bearish;Daily;90;21263,0;21283,5;20,5;21307,75;21215,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4 läuft mit Daily;-20,5;False;47,5;44,75;True;20818,0;False
+US100;2025-05-27;bullish;Daily;75;21276,75;21477,0;200,25;21488,5;21192,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;200,25;True;211,75;84,0;True;21453,75;True
+US100;2025-05-28;bullish;Daily;75;21507,0;21379,75;-127,25;21567,5;21321,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-127,25;False;60,5;185,75;False;21562,25;True
+US100;2025-05-29;neutral;;45;21645,5;21385,0;-260,5;21692,75;21301,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4-Retracement beendet;;;;;;;
+US100;2025-05-30;neutral;;45;21338,0;21376,75;38,75;21433,5;21071,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-06-02;bullish;Daily;80;21285,0;21554,5;269,5;21576,25;21235,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bullish;bullish;;H4-Retracement;269,5;True;291,25;50,0;True;21433,5;True
+US100;2025-06-03;bullish;Daily;75;21535,0;21688,0;153,0;21759,75;21509,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;153,0;True;224,75;25,25;True;21576,25;True
+US100;2025-06-04;bullish;Daily;70;21709,5;21748,0;38,5;21803,0;21641,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;38,5;True;93,5;68,5;True;21812,75;False
+US100;2025-06-05;neutral;;50;21800,5;21515,0;-285,5;21935,0;21503,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4 läuft mit Daily;;;;;;;
+US100;2025-06-06;neutral;;0;21761,0;21809,5;48,5;21873,5;21722,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bearish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-06-09;neutral;;50;21797,5;21822,25;24,75;21890,75;21756,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-06-10;neutral;;0;21854,75;21951,0;96,25;21992,25;21743,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-06-11;bullish;Daily;90;22029,75;21883,25;-146,5;22066,25;21790,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-146,5;False;36,5;239,0;False;22319,75;False
+US100;2025-06-12;neutral;;0;21836,25;21909,0;72,75;21977,25;21818,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-06-13;bullish;Daily;95;21659,0;21651,25;-7,75;21854,75;21600,25;nein (H1);bullish;bullish;;;bullish;bearish;;;bullish;bullish;;H4-Retracement;-7,75;False;195,75;58,75;True;21977,25;False
+US100;2025-06-16;bearish;Daily;95;21816,0;21936,0;120,0;21999,25;21790,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-120,0;False;26,0;183,25;False;21471,0;False
+US100;2025-06-17;bullish;Daily;75;21827,0;21722,5;-104,5;21910,0;21685,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-104,5;False;83,0;142,0;False;21999,25;False
+US100;2025-06-18;neutral;;50;21763,25;21732,0;-31,25;21872,25;21660,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-06-19;bullish;Daily;80;21553,0;21484,75;-68,25;21571,0;21435,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bullish;bullish;;H4-Retracement;-68,25;False;18,0;117,5;False;21872,25;False
+US100;2025-06-20;bearish;Daily;95;21806,5;21874,0;67,5;21896,5;21803,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-67,5;False;3,0;90,0;False;21435,5;False
+US100;2025-06-23;bullish;Daily;75;21883,25;22072,25;189,0;22093,0;21738,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;189,0;True;209,75;145,0;True;21999,25;True
+US100;2025-06-24;bullish;Daily;60;22286,25;22407,75;121,5;22448,25;22260,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;121,5;True;162,0;26,25;True;;
+US100;2025-06-25;bullish;Daily;60;22508,0;22472,5;-35,5;22548,25;22388,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-35,5;False;40,25;119,25;False;;
+US100;2025-06-26;bullish;Daily;60;22554,5;22672,5;118,0;22694,0;22476,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;118,0;True;139,5;78,5;True;;
+US100;2025-06-27;bullish;Daily;60;22731,0;22740,25;9,25;22825,5;22600,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;9,25;True;94,5;131,0;False;;
+US100;2025-06-30;bullish;Daily;60;22868,0;22866,75;-1,25;22934,75;22781,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-1,25;False;66,75;87,0;False;;
+US100;2025-07-01;bullish;Daily;85;22794,0;22691,75;-102,25;22848,25;22594,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-102,25;False;54,25;199,5;False;22934,75;False
+US100;2025-07-02;bearish;Daily;75;22616,25;22852,75;236,5;22856,75;22599,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-236,5;False;17,0;240,5;False;22384,5;False
+US100;2025-07-03;neutral;;0;22893,25;23057,5;164,25;23102,5;22891,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-07-04;bullish;Daily;75;22921,5;22906,75;-14,75;22945,5;22888,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-14,75;False;24,0;33,5;False;23102,5;False
+US100;2025-07-07;neutral;;50;22951,5;22839,0;-112,5;22977,5;22779,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-07-08;neutral;;0;22939,75;22903,25;-36,5;22962,75;22841,0;nein (H1);bullish;;bullish;;bullish;bearish;;bearish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-07-09;neutral;;25;22935,25;23043,5;108,25;23112,0;22920,0;nein (H1);bullish;;bullish;;bullish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-07-10;bullish;Daily;75;23049,0;23010,0;-39,0;23090,0;22901,25;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-39,0;False;41,0;147,75;False;23112,0;False
+US100;2025-07-11;neutral;;50;22904,25;22959,0;54,75;23021,5;22863,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-07-14;neutral;;50;22898,0;23036,25;138,25;23066,5;22842,25;nein (H1);bullish;;bullish;;bullish;bearish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-07-15;neutral;;30;23196,0;23017,75;-178,25;23222,75;23009,5;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-07-16;neutral;;45;23073,25;23063,25;-10,0;23100,0;22835,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;bullish;H4-Retracement beendet;;;;;;;
+US100;2025-07-17;neutral;;45;23145,75;23265,5;119,75;23279,75;23065,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-07-18;bullish;Daily;60;23269,0;23224,25;-44,75;23320,75;23169,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-44,75;False;51,75;99,5;False;;
+US100;2025-07-21;neutral;;0;23238,0;23347,0;109,0;23424,75;23223,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-07-22;bullish;Daily;85;23334,75;23199,0;-135,75;23349,75;23108,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-135,75;False;15,0;226,75;False;23424,75;False
+US100;2025-07-23;bearish;Daily;75;23236,25;23411,25;175,0;23418,0;23146,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-175,0;False;89,5;181,75;False;23169,5;True
+US100;2025-07-24;neutral;;50;23360,5;23395,0;34,5;23424,5;23298,25;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-07-25;neutral;;0;23371,25;23421,25;50,0;23476,0;23330,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-07-28;neutral;;0;23514,25;23509,25;-5,0;23529,0;23436,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-07-29;bullish;Daily;60;23579,25;23452,0;-127,25;23652,5;23421,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-127,25;False;73,25;157,75;False;;
+US100;2025-07-30;bullish;Daily;65;23489,75;23661,75;172,0;23689,0;23356,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;172,0;True;199,25;133,25;True;23652,5;True
+US100;2025-07-31;bullish;Daily;60;23801,5;23329,5;-472,0;23804,0;23290,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-472,0;False;2,5;511,0;False;;
+US100;2025-08-01;bearish;Daily;75;23068,75;22870,0;-198,75;23102,25;22775,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;198,75;True;293,75;33,5;True;22804,5;True
+US100;2025-08-04;bearish;Daily;90;23075,5;23350,75;275,25;23352,5;23070,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-275,25;False;5,0;277,0;False;22775,0;False
+US100;2025-08-05;neutral;;50;23360,75;23092,0;-268,75;23397,25;23084,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-08-06;neutral;;0;23178,25;23413,25;235,0;23445,25;23148,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2025-08-07;bullish;Daily;75;23597,75;23521,75;-76,0;23671,0;23329,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-76,0;False;73,25;268,75;False;23845,0;False
+US100;2025-08-08;bullish;Daily;75;23533,5;23713,75;180,25;23767,75;23521,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;180,25;True;234,25;12,25;True;23671,0;True
+US100;2025-08-11;bullish;Daily;70;23722,5;23629,5;-93,0;23804,5;23587,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-93,0;False;82,0;135,0;False;23845,0;False
+US100;2025-08-12;neutral;;0;23772,5;23949,5;177,0;23953,5;23622,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2025-08-13;bullish;Daily;55;24019,75;23927,75;-92,0;24068,5;23886,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-92,0;False;48,75;133,75;False;;
+US100;2025-08-14;neutral;;0;23843,75;23891,5;47,75;24007,75;23816,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-08-15;bullish;Daily;80;23904,5;23804,0;-100,5;23924,25;23734,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4-Retracement beendet;-100,5;False;19,75;170,0;False;24007,75;False
+US100;2025-08-18;neutral;;0;23775,0;23788,0;13,0;23824,25;23719,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bullish;;H4-Retracement;;;;;;;
+US100;2025-08-19;neutral;;0;23744,0;23473,5;-270,5;23770,5;23426,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bullish;;H4-Retracement;;;;;;;
+US100;2025-08-20;bearish;Daily;75;23427,0;23319,0;-108,0;23432,0;23035,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;108,0;True;392,0;5,0;True;22775,0;False
+US100;2025-08-21;bearish;Daily;75;23223,5;23221,75;-1,75;23348,25;23119,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;1,75;True;104,5;124,75;False;23035,0;False
+US100;2025-08-22;neutral;;50;23242,0;23569,75;327,75;23650,0;23205,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2025-08-25;bullish;Daily;75;23479,25;23502,25;23,0;23616,25;23443,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;23,0;True;137,0;36,0;True;23650,0;False
+US100;2025-08-26;neutral;;25;23471,0;23607,5;136,5;23611,0;23427,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2025-08-27;bullish;Daily;65;23581,5;23542,0;-39,5;23689,0;23434,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bullish;bearish;;H4-Retracement beendet;-39,5;False;107,5;146,75;False;23650,0;True
+US100;2025-08-28;neutral;;45;23634,0;23762,0;128,0;23803,75;23572,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4-Retracement beendet;;;;;;;
+US100;2025-08-29;bullish;Daily;85;23665,5;23461,75;-203,75;23670,25;23397,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-203,75;False;4,75;268,0;False;23803,75;False
+US100;2025-09-02;neutral;;50;23096,25;23379,5;283,25;23386,0;23025,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2025-09-03;bearish;Daily;95;23422,25;23455,75;33,5;23525,25;23318,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-33,5;False;104,0;103,0;True;23025,75;False
+US100;2025-09-04;neutral;;50;23485,0;23684,0;199,0;23708,75;23410,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-09-05;bullish;Daily;75;23873,75;23673,75;-200,0;23902,0;23505,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-200,0;False;28,25;368,75;False;24068,5;False
+US100;2025-09-08;neutral;;45;23778,25;23798,5;20,25;23888,0;23760,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4-Retracement beendet;;;;;;;
+US100;2025-09-09;neutral;;50;23839,25;23889,75;50,5;23921,25;23726,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-09-10;bullish;Daily;85;24004,25;23858,0;-146,25;24015,0;23785,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-146,25;False;10,75;219,25;False;24068,5;False
+US100;2025-09-11;neutral;;0;23959,0;24006,75;47,75;24046,0;23909,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-09-12;neutral;;0;24041,75;24115,25;73,5;24159,0;24001,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-09-15;bullish;Daily;60;24172,75;24296,5;123,75;24315,5;24162,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;123,75;True;142,75;10,5;True;;
+US100;2025-09-16;bullish;Daily;60;24353,0;24530,25;177,25;24609,75;24258,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;177,25;True;256,75;94,75;True;;
+US100;2025-09-17;bullish;Daily;85;24524,5;24502,0;-22,5;24550,5;24242,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-22,5;False;26,0;282,5;False;24647,25;False
+US100;2025-09-18;bullish;Daily;60;24690,25;24713,75;23,5;24816,0;24598,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;23,5;True;125,75;91,5;True;;
+US100;2025-09-19;bullish;Daily;85;24738,25;24861,0;122,75;24888,0;24708,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;122,75;True;149,75;30,25;True;24816,0;True
+US100;2025-09-22;bullish;Daily;85;24798,5;24996,25;197,75;25027,25;24783,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;197,75;True;228,75;15,5;True;24888,0;True
+US100;2025-09-23;bullish;Daily;85;25009,25;24833,75;-175,5;25010,75;24780,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-175,5;False;1,5;228,75;False;25027,25;False
+US100;2025-09-24;bullish;Daily;60;24881,5;24747,5;-134,0;24899,25;24627,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;-134,0;False;17,75;254,5;False;25026,0;False
+US100;2025-09-25;bearish;Daily;75;24567,75;24635,5;67,75;24696,75;24422,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-67,75;False;145,25;129,0;True;24258,25;False
+US100;2025-09-26;bearish;H4;70;24694,0;24726,5;32,5;24746,5;24520,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4 läuft mit Daily;-32,5;False;174,0;52,5;True;24422,5;False
+US100;2025-09-29;bearish;Daily;55;24899,25;24811,25;-88,0;24975,5;24780,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;88,0;True;118,75;76,25;True;24520,0;False
+US100;2025-09-30;bullish;Daily;75;24833,0;24838,25;5,25;24913,75;24722,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;5,25;True;80,75;110,75;False;24975,5;False
+US100;2025-10-01;neutral;;50;24777,5;25009,25;231,75;25036,75;24726,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2025-10-02;neutral;;50;25162,0;25105,0;-57,0;25180,0;24993,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-10-03;bullish;Daily;60;25119,75;24982,0;-137,75;25168,0;24923,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-137,75;False;48,25;196,5;False;;
+US100;2025-10-06;bearish;Daily;95;25191,75;25184,0;-7,75;25252,75;25108,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;7,75;True;83,25;61,0;True;24993,75;False
+US100;2025-10-07;bearish;Daily;80;25254,25;25054,75;-199,5;25275,0;24984,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;199,5;True;269,5;20,75;True;25045,75;True
+US100;2025-10-08;bearish;Daily;60;25063,25;25354,0;290,75;25364,75;25054,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;-290,75;False;8,5;301,5;False;24993,75;False
+US100;2025-10-09;neutral;;45;25332,75;25287,25;-45,5;25337,5;25160,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-10;neutral;;0;25297,5;24397,0;-900,5;25388,0;24158,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-13;bearish;Daily;95;24787,25;24904,5;117,25;24965,0;24724,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-117,25;False;62,75;177,75;False;24158,5;False
+US100;2025-10-14;neutral;;45;24619,25;24756,25;137,0;24947,5;24421,0;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-15;bearish;Daily;80;25022,5;24941,25;-81,25;25115,0;24663,5;nein (H1);bearish;;bearish;;bullish;bullish;;;bearish;bearish;;H4-Retracement;81,25;True;359,0;92,5;True;24421,0;False
+US100;2025-10-16;bearish;Daily;80;25080,25;24794,25;-286,0;25179,5;24643,5;nein (H1);bearish;;bearish;;bullish;bullish;;;bearish;bearish;;H4-Retracement;286,0;True;436,75;99,25;True;24663,5;True
+US100;2025-10-17;bearish;Daily;55;24737,0;24986,5;249,5;25055,75;24672,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;-249,5;False;64,5;318,75;False;24158,5;False
+US100;2025-10-20;bearish;H4;65;25129,5;25326,75;197,25;25354,5;25114,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bullish;bearish;bearish;H4-Retracement beendet;-197,25;False;14,75;225,0;False;24410,25;False
+US100;2025-10-21;neutral;;0;25298,5;25265,25;-33,25;25348,5;25203,25;nein (H1);bearish;;bearish;;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2025-10-22;bearish;Daily;80;25260,75;25040,0;-220,75;25289,25;24804,75;nein (H1);bearish;;bearish;;bullish;bullish;;;bearish;bearish;;H4-Retracement;220,75;True;456,0;28,5;True;25203,25;True
+US100;2025-10-23;bearish;Daily;95;25008,0;25278,0;270,0;25296,0;24940,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-270,0;False;67,25;288,0;False;24804,75;False
+US100;2025-10-24;bearish;Daily;55;25459,0;25509,25;50,25;25570,75;25429,75;nein (H1);bearish;;bearish;;bullish;bullish;;;;bearish;;H4-Retracement;-50,25;False;29,25;111,75;False;24937,0;False
+US100;2025-10-27;neutral;;50;25848,75;26003,75;155,0;26013,5;25823,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2025-10-28;neutral;;45;26065,0;26172,5;107,5;26231,5;26006,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-29;neutral;;45;26319,0;26221,0;-98,0;26379,75;26049,25;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-30;neutral;;0;26124,75;25882,75;-242,0;26177,5;25853,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-10-31;bearish;Daily;75;26102,25;26004,0;-98,25;26182,75;25888,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;98,25;True;213,5;80,5;True;25943,0;True
+US100;2025-11-03;bearish;Daily;70;26189,5;26109,5;-80,0;26266,0;26015,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bearish;;H4-Retracement beendet;80,0;True;174,0;76,5;True;25943,0;False
+US100;2025-11-04;neutral;;45;25715,75;25577,0;-138,75;25893,5;25522,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-11-05;bearish;Daily;85;25586,75;25729,0;142,25;25880,0;25488,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-142,25;False;98,75;293,25;False;24804,75;False
+US100;2025-11-06;neutral;;0;25766,75;25310,5;-456,25;25774,25;25197,75;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-11-07;neutral;;0;25111,25;25166,25;55,0;25226,75;24709,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-11-10;bearish;Daily;95;25555,75;25720,75;165,0;25760,5;25452,5;nein (H1);bearish;bearish;;;bullish;bullish;;bearish;;bearish;;H4-Retracement;-165,0;False;103,25;204,75;False;24709,25;False
+US100;2025-11-11;bullish;Daily;75;25596,75;25659,0;62,25;25696,25;25478,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;62,25;True;99,5;118,25;False;25880,0;False
+US100;2025-11-12;neutral;;50;25800,75;25625,0;-175,75;25801,0;25488,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4 läuft mit Daily;;;;;;;
+US100;2025-11-13;neutral;;0;25497,75;25087,5;-410,25;25509,5;25002,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-11-14;bearish;Daily;75;24717,0;25140,0;423,0;25293,25;24626,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-423,0;False;90,5;576,25;False;24410,25;False
+US100;2025-11-17;neutral;;45;25078,5;24905,5;-173,0;25254,0;24731,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4-Retracement beendet;;;;;;;
+US100;2025-11-18;bearish;Daily;75;24731,75;24531,25;-200,5;24832,0;24380,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bearish;bullish;;H4-Retracement beendet;200,5;True;351,75;100,25;True;24410,25;True
+US100;2025-11-19;bearish;Daily;85;24664,75;24958,75;294,0;24988,0;24507,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-294,0;False;157,75;323,25;False;24380,0;False
+US100;2025-11-20;bearish;Daily;100;25230,0;24073,75;-1156,25;25310,0;24073,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bearish;bearish;;H4 läuft mit Daily;1156,25;True;1156,75;80,0;True;24445,0;True
+US100;2025-11-21;bearish;Daily;85;24242,0;24347,5;105,5;24596,25;23927,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-105,5;False;314,75;354,25;False;23025,75;False
+US100;2025-11-24;neutral;;0;24498,0;24962,75;464,75;24993,5;24495,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2025-11-25;bullish;Daily;75;24884,0;25085,5;201,5;25135,25;24602,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;201,5;True;251,25;282,0;False;24993,5;True
+US100;2025-11-26;bullish;Daily;70;25214,25;25314,0;99,75;25376,0;25133,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;99,75;True;161,75;80,5;True;25293,25;True
+US100;2025-11-28;bullish;Daily;60;25373,0;25487,0;114,0;25490,5;25331,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;114,0;True;117,5;42,0;True;25339,25;True
+US100;2025-12-01;bullish;Daily;85;25266,0;25399,75;133,75;25495,75;25209,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;133,75;True;229,75;56,75;True;25830,0;False
+US100;2025-12-02;bullish;Daily;65;25507,25;25603,75;96,5;25670,0;25414,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;96,5;True;162,75;92,75;True;25524,25;True
+US100;2025-12-03;bullish;Daily;85;25648,0;25657,5;9,5;25685,25;25421,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;9,5;True;37,25;226,5;False;25830,0;False
+US100;2025-12-04;neutral;;0;25631,75;25632,5;0,75;25732,5;25488,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-12-05;neutral;;0;25613,75;25732,0;118,25;25868,0;25611,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-12-08;neutral;;0;25810,25;25706,75;-103,5;25860,75;25564,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-12-09;bullish;Daily;85;25616,5;25676,25;59,75;25735,75;25560,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;59,75;True;119,25;56,5;True;25860,75;False
+US100;2025-12-10;bullish;Daily;85;25673,0;25800,5;127,5;25870,75;25528,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;127,5;True;197,75;144,25;True;25868,0;True
+US100;2025-12-11;bullish;Daily;65;25643,75;25834,75;191,0;25861,5;25390,25;nein (H1);bullish;bullish;;;bullish;bearish;;bullish;;bearish;;H4-Retracement;191,0;True;217,75;253,5;False;25870,75;False
+US100;2025-12-12;bullish;Daily;65;25625,5;25213,5;-412,0;25632,25;25118,0;nein (H1);bullish;bullish;;;bullish;bearish;;;bullish;bearish;;H4-Retracement;-412,0;False;6,75;507,5;False;25861,5;False
+US100;2025-12-15;bearish;Daily;70;25380,0;25101,5;-278,5;25410,0;25033,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;278,5;True;346,75;30,0;True;25118,0;True
+US100;2025-12-16;bearish;Daily;85;25252,5;25321,5;69,0;25444,0;24934,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-69,0;False;318,5;191,5;True;24602,0;False
+US100;2025-12-17;bearish;Daily;75;25464,75;24951,75;-513,0;25482,0;24756,25;nein (H1);bearish;bearish;;;bullish;bullish;;;;bearish;;H4-Retracement;513,0;True;708,5;17,25;True;24828,0;True
+US100;2025-12-18;neutral;;45;25221,5;25219,0;-2,5;25412,5;25161,25;nein (H1);bearish;bearish;;;bullish;bullish;;;;bullish;;H4-Retracement;;;;;;;
+US100;2025-12-19;bearish;Daily;70;25323,0;25590,75;267,75;25600,25;25298,25;nein (H1);bearish;bearish;;;bullish;bullish;;;;bearish;;H4-Retracement;-267,75;False;24,75;277,25;False;24901,25;False
+US100;2025-12-22;bullish;Daily;70;25753,0;25700,25;-52,75;25794,75;25628,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-52,75;False;41,75;125,0;False;25870,75;False
+US100;2025-12-23;bullish;Daily;70;25621,0;25811,5;190,5;25822,5;25609,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;190,5;True;201,5;12,0;True;25794,75;True
+US100;2025-12-24;bullish;Daily;70;25822,75;25877,75;55,0;25892,0;25784,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;55,0;True;69,25;38,75;True;25870,75;True
+US100;2025-12-26;bullish;Daily;85;25897,0;25859,25;-37,75;25935,25;25834,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-37,75;False;38,25;62,75;False;26399,0;False
+US100;2025-12-29;neutral;;0;25694,75;25744,5;49,75;25819,0;25648,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2025-12-30;neutral;;50;25714,25;25676,0;-38,25;25793,75;25668,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2025-12-31;neutral;;50;25702,75;25434,75;-268,0;25716,75;25429,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2026-01-02;bearish;Daily;80;25692,0;25385,25;-306,75;25803,75;25265,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bearish;;H4-Retracement;306,75;True;426,75;111,75;True;25429,0;True
+US100;2026-01-05;bearish;Daily;75;25576,0;25578,25;2,25;25708,0;25538,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-2,25;False;37,25;132,0;False;25265,25;False
+US100;2026-01-06;bearish;Daily;70;25616,75;25831,25;214,5;25837,75;25592,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bearish;;H4-Retracement beendet;-214,5;False;24,25;221,0;False;25408,0;False
+US100;2026-01-07;bullish;Daily;75;25788,25;25835,75;47,5;25996,25;25761,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;47,5;True;208,0;26,75;True;25880,0;True
+US100;2026-01-08;neutral;;0;25799,5;25712,0;-87,5;25811,0;25569,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2026-01-09;bearish;Daily;95;25805,25;25931,75;126,5;25985,5;25615,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-126,5;False;189,75;180,25;True;25569,0;False
+US100;2026-01-12;bullish;Daily;95;25743,75;25942,25;198,5;26020,5;25719,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bullish;;H4-Retracement beendet;198,5;True;276,75;24,0;True;25985,5;True
+US100;2026-01-13;neutral;;0;25970,25;25898,25;-72,0;26042,75;25803,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-01-14;neutral;;0;25754,25;25612,0;-142,25;25790,25;25420,75;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bearish;bullish;;H4-Retracement;;;;;;;
+US100;2026-01-15;bearish;Daily;90;25893,75;25707,0;-186,75;25952,75;25676,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4 läuft mit Daily;186,75;True;217,25;59,0;True;25420,75;False
+US100;2026-01-16;bearish;Daily;90;25826,0;25689,0;-137,0;25891,0;25591,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bearish;bearish;;H4 läuft mit Daily;137,0;True;234,5;65,0;True;25562,5;False
+US100;2026-01-20;bearish;Daily;85;25211,75;25142,75;-69,0;25429,75;25098,0;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;69,0;True;113,75;218,0;False;24756,25;False
+US100;2026-01-21;bearish;Daily;85;25083,0;25509,5;426,5;25653,5;25072,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-426,5;False;10,75;570,5;False;24756,25;False
+US100;2026-01-22;bullish;Daily;70;25735,75;25630,0;-105,75;25739,0;25536,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-105,75;False;3,25;199,0;False;26045,5;False
+US100;2026-01-23;neutral;;50;25570,75;25738,25;167,5;25845,75;25556,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4 läuft mit Daily;;;;;;;
+US100;2026-01-26;neutral;;50;25716,25;25861,25;145,0;25936,5;25704,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;bullish;H4 läuft mit Daily;;;;;;;
+US100;2026-01-27;bullish;Daily;70;25990,5;26110,0;119,5;26118,0;25917,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;119,5;True;127,5;73,25;True;26045,5;True
+US100;2026-01-28;bullish;Daily;85;26273,5;26268,25;-5,25;26301,0;25993,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-5,25;False;27,5;280,25;False;26399,0;False
+US100;2026-01-29;bullish;Daily;85;26194,25;25982,5;-211,75;26196,75;25536,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-211,75;False;2,5;658,25;False;26349,0;False
+US100;2026-01-30;bearish;Daily;75;25825,75;25670,0;-155,75;25940,0;25568,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;155,75;True;257,0;114,25;True;25536,0;False
+US100;2026-02-02;neutral;;45;25529,75;25873,25;343,5;25949,5;25520,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-02-03;neutral;;0;25967,0;25421,25;-545,75;25976,75;25219,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2026-02-04;bearish;Daily;65;25356,25;25117,0;-239,25;25390,0;24783,5;nein (H1);bearish;bearish;;;bullish;bullish;;;bearish;bullish;;H4-Retracement;239,25;True;572,75;33,75;True;25219,0;True
+US100;2026-02-05;bearish;Daily;90;24768,25;24425,25;-343,0;24960,75;24407,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;343,0;True;361,0;192,5;True;24602,0;True
+US100;2026-02-06;bearish;Daily;85;24797,0;25163,25;366,25;25222,0;24700,75;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-366,25;False;96,25;425,0;False;23904,5;False
+US100;2026-02-09;bearish;Daily;65;25080,0;25361,5;281,5;25428,75;24955,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;-281,5;False;124,5;348,75;False;24239,75;False
+US100;2026-02-10;bullish;Daily;75;25372,75;25257,25;-115,5;25447,25;25198,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-115,5;False;74,5;174,5;False;25428,75;True
+US100;2026-02-11;neutral;;0;25443,5;25278,75;-164,75;25465,25;25058,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-02-12;bullish;Daily;55;25396,25;24822,0;-574,25;25400,25;24721,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;-574,25;False;4,0;674,75;False;25465,25;False
+US100;2026-02-13;bearish;Daily;75;24780,75;24773,5;-7,25;24995,5;24578,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;7,25;True;202,0;214,75;False;24239,75;False
+US100;2026-02-17;neutral;;50;24613,0;24768,25;155,25;24889,75;24449,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2026-02-18;neutral;;50;24828,75;24936,5;107,75;25128,25;24752,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2026-02-19;bullish;Daily;75;24855,0;24836,0;-19,0;24959,5;24749,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-19,0;False;104,5;106,0;False;25128,25;False
+US100;2026-02-20;bullish;Daily;70;24769,75;25067,5;297,75;25139,5;24678,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bullish;;H4-Retracement beendet;297,75;True;369,75;91,25;True;25054,0;True
+US100;2026-02-23;bullish;Daily;70;24935,0;24786,25;-148,75;25040,0;24668,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-148,75;False;105,0;267,0;False;25139,5;False
+US100;2026-02-24;neutral;;50;24876,75;25016,25;139,5;25078,75;24694,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2026-02-25;neutral;;0;25150,75;25461,75;311,0;25494,75;25129,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-02-26;bullish;Daily;85;25383,0;25028,0;-355,0;25398,75;24861,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-355,0;False;15,75;521,25;False;25494,75;False
+US100;2026-02-27;bullish;Daily;100;24871,0;25004,75;133,75;25036,75;24782,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bullish;;H4 läuft mit Daily;133,75;True;165,75;89,0;True;25418,25;False
+US100;2026-03-02;bullish;Daily;95;24621,5;24995,75;374,25;25101,0;24605,0;nein (H1);bullish;bullish;;;bullish;bearish;;;bullish;bullish;;H4-Retracement;374,25;True;479,5;16,5;True;25098,75;True
+US100;2026-03-03;bullish;Daily;75;24496,0;24709,75;213,75;24850,0;24352,0;nein (H1);bullish;bullish;;;bullish;bearish;;;;bullish;;H4-Retracement;213,75;True;354,0;144,0;True;25101,0;False
+US100;2026-03-04;neutral;;0;24889,5;25138,0;248,5;25217,75;24826,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-03-05;bullish;Daily;75;24994,5;25010,5;16,0;25209,75;24772,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;16,0;True;215,25;222,0;False;25494,75;False
+US100;2026-03-06;bullish;H4;65;24644,5;24670,25;25,75;24926,25;24601,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bullish;bullish;H4-Retracement beendet;25,75;True;281,75;43,5;True;25250,0;False
+US100;2026-03-09;bearish;Daily;75;24370,75;24958,0;587,25;25058,0;24320,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-587,25;False;50,75;687,25;False;23904,5;False
+US100;2026-03-10;neutral;;0;24964,75;25010,5;45,75;25217,5;24892,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2026-03-11;bearish;Daily;80;25101,5;24945,5;-156,0;25180,0;24873,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;156,0;True;228,0;78,5;True;24830,0;False
+US100;2026-03-12;bearish;Daily;55;24658,75;24568,5;-90,25;24747,5;24517,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;90,25;True;141,0;88,75;True;24000,0;False
+US100;2026-03-13;bearish;Daily;80;24728,5;24394,25;-334,25;24765,0;24335,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bearish;;H4-Retracement;334,25;True;393,25;36,5;True;24000,0;False
+US100;2026-03-16;bearish;Daily;80;24735,5;24872,25;136,75;25035,0;24610,75;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bearish;;H4-Retracement;-136,75;False;124,75;299,5;False;24000,0;False
+US100;2026-03-17;neutral;;0;25092,75;25027,5;-65,25;25098,0;24946,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2026-03-18;bearish;Daily;80;24969,0;24606,25;-362,75;24984,75;24565,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;362,75;True;403,5;15,75;True;24728,25;True
+US100;2026-03-19;bearish;Daily;75;24501,75;24617,0;115,25;24691,5;24377,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-115,25;False;124,0;189,75;False;24295,25;False
+US100;2026-03-20;neutral;;50;24285,75;24101,5;-184,25;24356,75;23971,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4 läuft mit Daily;;;;;;;
+US100;2026-03-23;bearish;Daily;80;24600,5;24400,0;-200,5;24690,0;24308,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bearish;;H4 läuft mit Daily;200,5;True;292,0;89,5;True;;
+US100;2026-03-24;bearish;Daily;65;24215,75;24403,75;188,0;24550,0;24160,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;;bullish;;H4 läuft mit Daily;-188,0;False;55,5;334,25;False;23772,5;False
+US100;2026-03-25;bearish;Daily;60;24368,5;24367,75;-0,75;24519,5;24286,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;;bullish;;H4 läuft mit Daily;0,75;True;82,0;151,0;False;24134,0;False
+US100;2026-03-26;bearish;Daily;60;24216,0;23822,0;-394,0;24242,5;23763,25;nein (H1);bearish;bearish;;;bearish;bearish;bearish;;;bullish;;H4 läuft mit Daily;394,0;True;452,75;26,5;True;23772,5;True
+US100;2026-03-27;bearish;Daily;60;23481,0;23254,25;-226,75;23610,5;23232,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;226,75;True;248,5;129,5;True;;
+US100;2026-03-30;bearish;Daily;60;23505,75;23106,25;-399,5;23538,25;23024,5;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;399,5;True;481,25;32,5;True;;
+US100;2026-03-31;bearish;Daily;60;23370,75;23905,5;534,75;23975,25;23357,0;nein (H1);bearish;bearish;;;bearish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-534,75;False;13,75;604,5;False;;
+US100;2026-04-01;bullish;Daily;75;24061,0;24187,25;126,25;24348,25;24036,0;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;126,25;True;287,25;25,0;True;24763,0;False
+US100;2026-04-02;bullish;Daily;75;23725,25;24219,5;494,25;24266,75;23678,0;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;494,25;True;541,5;47,25;True;24348,25;False
+US100;2026-04-06;neutral;;45;24307,5;24349,75;42,25;24452,25;24202,75;nein (H1);bullish;;bullish;bullish;bearish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-04-07;bullish;Daily;85;24216,25;24399,25;183,0;24451,5;23941,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;183,0;True;235,25;274,75;False;24452,25;False
+US100;2026-04-08;bullish;Daily;85;25213,0;25039,0;-174,0;25249,75;24926,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;-174,0;False;36,75;286,5;False;25494,75;False
+US100;2026-04-09;bullish;Daily;85;25029,25;25244,75;215,5;25269,75;24960,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;215,5;True;240,5;68,75;True;25257,0;True
+US100;2026-04-10;neutral;;0;25304,0;25281,25;-22,75;25393,0;25222,25;nein (H1);bullish;bullish;;;bearish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-04-13;bullish;Daily;85;25168,25;25585,5;417,25;25599,25;25156,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;417,25;True;431,0;11,75;True;25393,0;True
+US100;2026-04-14;bullish;Daily;85;25675,5;25990,0;314,5;26003,25;25651,75;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;314,5;True;327,75;23,75;True;26027,75;False
+US100;2026-04-15;bullish;Daily;85;25990,0;26359,5;369,5;26377,5;25979,0;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;369,5;True;387,5;11,0;True;26349,0;True
+US100;2026-04-16;bullish;Daily;60;26402,0;26464,25;62,25;26564,0;26275,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;62,25;True;162,0;126,5;True;;
+US100;2026-04-17;bullish;Daily;60;26742,0;26840,5;98,5;26884,75;26629,5;nein (H1);bullish;bullish;;;bearish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;98,5;True;142,75;112,5;True;;
+US100;2026-04-20;bullish;Daily;85;26751,75;26774,25;22,5;26827,75;26568,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;22,5;True;76,0;183,0;False;26884,75;False
+US100;2026-04-21;neutral;;35;26823,25;26721,25;-102,0;26885,25;26551,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-04-22;bullish;Daily;65;26821,75;27106,5;284,75;27136,0;26811,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;284,75;True;314,25;10,25;True;26901,75;True
+US100;2026-04-23;bullish;Daily;85;27009,25;26942,75;-66,5;27155,75;26681,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-66,5;False;146,5;327,5;False;27136,0;True
+US100;2026-04-24;neutral;;40;27238,0;27435,0;197,0;27462,5;27130,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-04-27;bullish;Daily;60;27419,75;27418,5;-1,25;27454,75;27298,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-1,25;False;35,0;121,25;False;;
+US100;2026-04-28;neutral;;0;27148,75;27191,5;42,75;27252,0;27009,5;nein (H1);bullish;bullish;;;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2026-04-29;bearish;Daily;75;27225,75;27148,75;-77,0;27414,0;27094,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;77,0;True;131,75;188,25;False;27009,5;False
+US100;2026-04-30;bearish;Daily;55;27522,75;27598,5;75,75;27622,0;27163,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;-75,75;False;359,5;99,25;True;27094,0;False
+US100;2026-05-01;neutral;;45;27576,5;27835,75;259,25;27917,0;27575,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-04;neutral;;45;27845,25;27743,0;-102,25;27941,0;27613,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-05;neutral;;0;27973,5;28207,25;233,75;28247,0;27971,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-06;neutral;;45;28457,75;28712,25;254,5;28800,0;28336,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-07;neutral;;45;28755,25;28644,0;-111,25;28944,75;28552,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-08;neutral;;0;28911,5;29332,5;421,0;29386,75;28859,5;nein (H1);bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-11;neutral;;45;29297,0;29400,0;103,0;29480,0;29246,75;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-12;bullish;Daily;70;29222,75;29134,25;-88,5;29296,0;28742,0;nein (H1);bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-88,5;False;73,25;480,75;False;29480,0;False
+US100;2026-05-13;bearish;Daily;80;29237,5;29536,0;298,5;29565,5;29075,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bearish;;bearish;;H4-Retracement;-298,5;False;162,5;328,0;False;28742,0;False
+US100;2026-05-14;neutral;;45;29494,25;29688,5;194,25;29782,0;29448,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-15;bullish;Daily;80;29191,0;29231,75;40,75;29486,75;29089,75;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bullish;;H4-Retracement;40,75;True;295,75;101,25;True;29782,0;False
+US100;2026-05-18;bearish;Daily;90;29408,25;29076,0;-332,25;29419,0;28814,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4 läuft mit Daily;332,25;True;593,5;10,75;True;28742,0;False
+US100;2026-05-19;bearish;Daily;70;28912,25;28899,25;-13,0;29126,5;28663,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;13,0;True;249,25;214,25;True;28814,75;True
+US100;2026-05-20;neutral;;0;29103,75;29390,5;286,75;29397,5;29008,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-05-21;bullish;Daily;75;29193,5;29455,5;262,0;29554,0;29127,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;262,0;True;360,5;66,5;True;29782,0;False
+US100;2026-05-22;bullish;Daily;75;29594,25;29558,75;-35,5;29749,0;29490,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-35,5;False;154,75;104,0;True;29782,0;False
+US100;2026-05-26;neutral;;50;29920,0;30044,25;124,25;30118,75;29826,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-05-27;bullish;Daily;65;30260,75;30125,25;-135,5;30271,0;29877,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-135,5;False;10,25;383,25;False;;
+US100;2026-05-28;bullish;Daily;90;30056,75;30313,0;256,25;30344,5;29920,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;256,25;True;287,75;136,5;True;30379,0;False
+US100;2026-05-29;bullish;Daily;60;30349,5;30405,25;55,75;30536,0;30270,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;55,75;True;186,5;79,5;True;;
+US100;2026-06-01;bullish;Daily;60;30449,0;30522,5;73,5;30693,0;30291,5;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;73,5;True;244,0;157,5;True;;
+US100;2026-06-02;neutral;;0;30529,75;30743,0;213,25;30763,25;30423,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-06-03;bullish;Daily;60;30716,75;30495,0;-221,75;30807,75;30478,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-221,75;False;91,0;238,5;False;;
+US100;2026-06-04;neutral;;0;30310,25;30399,5;89,25;30603,25;30151,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-06-05;bearish;Daily;75;30054,25;29026,5;-1027,75;30100,5;28781,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;1027,75;True;1273,0;46,25;True;29877,5;True
+US100;2026-06-08;bearish;Daily;70;29484,5;29435,25;-49,25;29743,0;29331,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;49,25;True;153,0;258,5;False;28781,25;False
+US100;2026-06-09;neutral;;45;29735,75;29140,5;-595,25;29848,25;28227,75;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-06-10;neutral;;50;28833,25;28472,0;-361,25;29250,0;28409,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-06-11;bearish;Daily;60;28814,5;29433,25;618,75;29544,25;28577,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;-618,75;False;237,0;729,75;False;28243,0;False
+US100;2026-06-12;bullish;Daily;75;29412,25;29662,0;249,75;29760,0;29230,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;249,75;True;347,75;182,25;True;29743,0;True
+US100;2026-06-15;bullish;Daily;75;30581,25;30832,0;250,75;30915,0;30562,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;250,75;True;333,75;18,75;True;30807,75;True
+US100;2026-06-16;bullish;Daily;65;30826,0;30300,5;-525,5;30889,0;30272,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-525,5;False;63,0;553,75;False;;
+US100;2026-06-17;neutral;;0;30491,25;30141,75;-349,5;30545,75;29923,0;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-06-18;bearish;Daily;95;30514,0;30726,5;212,5;30783,25;30391,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-212,5;False;123,0;269,25;False;29987,75;False
+US100;2026-06-22;neutral;;50;30801,0;30662,5;-138,5;30968,0;30503,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-06-23;bullish;Daily;60;29735,0;29752,0;17,0;30047,0;29577,25;nein (H1);bullish;;bullish;bullish;bullish;bearish;;;;bullish;;H4-Retracement;17,0;True;312,0;157,75;True;30968,0;False
+US100;2026-06-24;bearish;Daily;75;29764,25;30095,25;331,0;30157,75;29264,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-331,0;False;499,5;393,5;True;29577,25;True
+US100;2026-06-25;bearish;H4;60;30202,75;29759,25;-443,5;30214,75;29295,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bullish;bearish;bearish;H4 läuft mit Daily;443,5;True;907,0;12,0;True;29264,75;False
+US100;2026-06-26;bearish;Daily;70;29317,25;29368,25;51,0;29716,0;29181,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bearish;bullish;;H4 läuft mit Daily;-51,0;False;135,75;398,75;False;28243,0;False
+US100;2026-06-29;neutral;;0;29705,75;29995,0;289,25;30069,5;29273,75;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bullish;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-06-30;bullish;Daily;75;30014,25;30500,75;486,5;30599,75;29997,0;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;486,5;True;585,5;17,25;True;30968,0;False
+US100;2026-07-01;bullish;Daily;75;30267,75;30064,25;-203,5;30356,5;30008,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-203,5;False;88,75;259,25;False;30599,75;False
+US100;2026-07-02;neutral;;50;30185,0;29551,75;-633,25;30293,5;29328,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-07-06;neutral;;25;29934,75;29947,75;13,0;30094,0;29776,25;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;;bullish;;H4-Retracement;;;;;;;
+US100;2026-07-07;neutral;;0;29642,25;29419,5;-222,75;29685,75;29210,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;bullish;;bullish;;H4-Retracement;;;;;;;
+US100;2026-07-08;bearish;Daily;75;29154,75;29391,25;236,5;29500,0;29034,0;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-236,5;False;120,75;345,25;False;28243,0;False
+US100;2026-07-09;bearish;H4;55;29735,25;29931,25;196,0;29993,5;29614,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4-Retracement beendet;-196,0;False;120,75;258,25;False;28909,75;False
+US100;2026-07-10;neutral;;50;29800,5;30032,25;231,75;30077,75;29675,0;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2026-07-13;neutral;;50;29719,25;29428,75;-290,5;29752,5;29386,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2026-07-14;bearish;Daily;95;29773,75;29793,5;19,75;29895,75;29567,5;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;-19,75;False;206,25;122,0;True;28909,75;False
+US100;2026-07-15;neutral;;0;29980,0;29707,5;-272,5;29999,75;29397,0;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bullish;bearish;;H4-Retracement;;;;;;;
+US100;2026-07-16;neutral;;50;29393,25;29179,0;-214,25;29532,0;29078,5;nein (H1);bearish;;bearish;bearish;bullish;bullish;;;bearish;bullish;;H4-Retracement;;;;;;;
+US100;2026-07-17;bearish;Daily;75;28664,75;28773,25;108,5;29050,25;28408,25;nein (H1);bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;-108,5;False;256,5;385,5;False;28243,0;False
+US100;2026-07-20;bearish;Daily;90;29025,0;28777,0;-248,0;29192,5;28750,5;nein (H1);bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;248,0;True;274,5;167,5;True;28408,25;False
+US100;2026-07-21;bearish;Daily;65;29173,5;29289,75;116,25;29364,75;29064,25;nein (H1);bearish;bearish;;;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;-116,25;False;109,25;191,25;False;28408,25;False
+US100;2026-07-22;bullish;Daily;75;29017,5;29165,0;147,5;29342,25;29017,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;147,5;True;324,75;0,0;True;29364,75;False
+US100;2026-07-23;bullish;Daily;70;28786,5;28739,25;-47,25;28883,0;28432,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;;bullish;;H4-Retracement beendet;-47,25;False;96,5;354,0;False;29342,25;False
+US100;2026-07-24;neutral;;0;28591,25;28282,25;-309,0;28630,75;28212,5;nein (H1);bullish;;bullish;bullish;bullish;bearish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2026-07-27;neutral;;50;28692,0;28210,0;-482,0;28700,0;27939,0;nein (H1);bearish;;bearish;;bullish;bullish;;bearish;;bullish;;H4-Retracement;;;;;;;
+US100;2026-07-28;bearish;Daily;70;27993,75;27960,5;-33,25;28080,0;27603,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;33,25;True;390,25;86,25;True;27536,25;False
+US100;2026-07-29;neutral;;50;27909,0;27259,25;-649,75;28099,5;27201,5;nein (H1);bearish;;bearish;;bullish;bearish;bearish;;bullish;bullish;bearish;H4 läuft mit Daily;;;;;;;
+US100;2026-07-30;bearish;Daily;70;27807,0;28333,5;526,5;28414,5;27793,0;nein (H1);bearish;;bearish;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-526,5;False;14,0;607,5;False;27201,5;False
+US100;2026-07-31;bullish;Daily;75;28468,5;28404,25;-64,25;28725,75;28079,75;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-64,25;False;257,25;388,75;False;28736,0;False
+US100;2026-08-03;neutral;;0;28459,25;28929,25;470,0;28964,25;28313,5;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-08-04;bullish;Daily;70;29203,25;29818,25;615,0;29956,5;29191,25;nein (H1);bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;615,0;True;753,25;12,0;True;29364,75;True
+US100;2026-08-05;bullish;Daily;85;29917,25;29600,25;-317,0;30074,0;29530,75;nein (H1);bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-317,0;False;156,75;386,5;False;30062,5;True
+US100;2026-08-06;neutral;;0;29400,25;29504,25;104,0;29686,25;29241,25;nein (H1);bullish;bullish;;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-08-07;bearish;Daily;80;29714,25;29834,75;120,5;29860,25;29564,5;ja;bearish;;bearish;bearish;bullish;bullish;;bearish;;bearish;;H4-Retracement;-120,5;False;149,75;146,0;True;29241,25;False
+US100;2026-08-10;bullish;Daily;70;29805,5;29764,25;-41,25;29900,0;29718,75;ja;bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-41,25;False;94,5;86,75;True;30074,0;False
+US100;2026-08-11;neutral;;0;29839,25;29646,75;-192,5;29842,5;29533,5;ja;bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-08-12;bearish;Daily;95;29991,25;29805,75;-185,5;30001,75;29804,5;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4-Retracement beendet;185,5;True;186,75;10,5;True;29533,5;False
+US100;2026-08-13;bearish;Daily;80;29911,0;30214,25;303,25;30272,75;29863,5;ja;bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;-303,25;False;47,5;361,75;False;29624,5;False
+US100;2026-08-14;bullish;Daily;70;30241,5;30141,75;-99,75;30280,5;30028,5;ja;bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-99,75;False;39,0;213,0;False;30599,75;False
+US100;2026-08-17;neutral;;0;30218,5;30078,25;-140,25;30287,5;30054,5;ja;bullish;;bullish;;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-08-18;neutral;;0;29690,75;29559,5;-131,25;29769,75;29514,0;ja;bullish;;bullish;;bullish;bearish;;;bearish;bullish;;H4-Retracement;;;;;;;
+US100;2026-08-19;bearish;Daily;75;29696,0;29561,0;-135,0;29742,75;29375,75;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;135,0;True;320,25;46,75;True;28831,75;False
+US100;2026-08-20;neutral;;45;29350,5;29317,25;-33,25;29470,25;29202,75;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4-Retracement beendet;;;;;;;
+US100;2026-08-21;bearish;Daily;70;29469,25;29387,75;-81,5;29488,75;29220,0;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;81,5;True;249,25;19,5;True;29202,75;False
+US100;2026-08-24;neutral;;45;29235,5;29131,25;-104,25;29243,0;28946,75;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-08-25;bearish;Daily;70;29297,0;29287,5;-9,5;29414,75;29138,0;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;9,5;True;159,0;117,75;True;28946,75;False
+US100;2026-08-26;neutral;;45;29174,5;29432,5;258,0;29437,75;29156,75;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-08-27;neutral;;0;29524,5;29635,25;110,75;29708,0;29423,75;ja;bearish;;bearish;bearish;bullish;bullish;;bullish;;bullish;;H4-Retracement;;;;;;;
+US100;2026-08-28;bullish;Daily;75;29628,0;29491,75;-136,25;29811,5;29436,25;ja;bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-136,25;False;183,5;191,75;False;29708,0;True
+US100;2026-08-31;neutral;;0;29438,5;29521,0;82,5;29538,25;29355,0;ja;bullish;;bullish;bullish;bullish;bearish;;;bearish;bearish;;H4-Retracement;;;;;;;
+US100;2026-09-01;bullish;Daily;80;29111,75;29139,0;27,25;29317,75;29002,0;ja;bullish;;bullish;bullish;bullish;bearish;;;bullish;bullish;;H4-Retracement;27,25;True;206,0;109,75;True;29757,25;False
+US100;2026-09-02;bearish;Daily;70;29098,5;29141,0;42,5;29213,0;29017,25;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-42,5;False;81,25;114,5;False;28831,75;False
+US100;2026-09-03;bearish;H4;60;29249,5;29502,25;252,75;29584,25;29199,5;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;bullish;bullish;bearish;H4 läuft mit Daily;-252,75;False;50,0;334,75;False;28927,25;False
+US100;2026-09-04;bullish;Daily;75;29588,75;29565,25;-23,5;29691,75;29468,0;ja;bullish;;bullish;bullish;bullish;bullish;bullish;bullish;;bearish;;H4-Retracement beendet;-23,5;False;103,0;120,75;False;29757,25;False
+US100;2026-09-08;neutral;;0;29644,75;29525,75;-119,0;29686,5;29424,75;ja;bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-09-09;neutral;;30;29455,0;29460,0;5,0;29593,75;29358,0;ja;bullish;;bullish;bullish;bullish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2026-09-10;bullish;Daily;80;29089,5;29143,25;53,75;29275,0;29057,5;ja;bullish;;bullish;bullish;bullish;bearish;;;bullish;bullish;;H4-Retracement;53,75;True;185,5;32,0;True;29633,75;False
+US100;2026-09-11;bearish;Daily;90;29417,5;29387,0;-30,5;29499,75;29334,0;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bearish;;H4 läuft mit Daily;30,5;True;83,5;82,25;True;29043,25;False
+US100;2026-09-14;neutral;;45;28906,5;29489,75;583,25;29604,5;28878,75;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4 läuft mit Daily;;;;;;;
+US100;2026-09-15;bearish;Daily;60;29420,5;29277,0;-143,5;29453,5;29207,5;ja;bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;143,5;True;213,0;33,0;True;28831,75;False
+US100;2026-09-16;bearish;Daily;55;29386,75;29263,75;-123,0;29549,75;29053,0;ja;bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;123,0;True;333,75;163,0;True;29207,5;True
+US100;2026-09-17;bearish;Daily;60;29718,25;29720,5;2,25;29793,25;29605,75;ja;bearish;;bearish;bearish;bullish;bullish;;;;bearish;;H4-Retracement;-2,25;False;112,5;75,0;True;29053,0;False
+US100;2026-09-18;bullish;Daily;70;29814,0;29917,25;103,25;29993,25;29659,25;ja;bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;103,25;True;179,25;154,75;True;30343,0;False
+US100;2026-09-21;bullish;Daily;70;30221,5;30781,0;559,5;30862,75;30216,5;ja;bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;559,5;True;641,25;5,0;True;30343,0;True
+US100;2026-09-22;bullish;Daily;70;30764,25;31002,0;237,75;31065,5;30763,5;ja;bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;237,75;True;301,25;0,75;True;30968,0;True
+US100;2026-09-23;neutral;;45;31005,5;30776,0;-229,5;31013,0;30642,75;ja;bullish;;bullish;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-09-24;neutral;;30;30519,0;30736,25;217,25;30827,5;30493,25;ja;bullish;;bullish;;bullish;bearish;;;;bearish;;H4-Retracement;;;;;;;
+US100;2026-09-25;neutral;;40;30819,0;30921,75;102,75;30951,5;30684,0;ja;bullish;;bullish;;bullish;bullish;bullish;;bullish;bearish;;H4-Retracement beendet;;;;;;;
+US100;2026-09-28;neutral;;50;30718,0;30556,75;-161,25;30759,25;30356,75;ja;bullish;;bullish;;bullish;bearish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2026-09-29;bearish;Daily;75;30708,75;30652,75;-56,0;30725,5;30504,5;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;56,0;True;204,25;16,75;True;30356,75;False
+US100;2026-09-30;neutral;;50;30699,5;30725,75;26,25;30906,0;30636,5;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2026-10-01;neutral;;0;30796,75;30771,25;-25,5;30883,5;30529,25;ja;bearish;;bearish;bearish;bullish;bullish;;bullish;;bearish;;H4-Retracement;;;;;;;
+US100;2026-10-02;bearish;Daily;80;31147,75;31061,75;-86,0;31282,5;30988,0;ja;bearish;;bearish;bearish;bullish;bullish;;;bearish;bearish;;H4-Retracement;86,0;True;159,75;134,75;True;30670,0;False
+US100;2026-10-05;neutral;;0;31055,0;31339,5;284,5;31371,0;31044,25;ja;bullish;;bullish;bullish;bullish;bullish;bullish;;bearish;bearish;;H4 läuft mit Daily;;;;;;;
+US100;2026-10-06;bullish;Daily;60;31513,25;31500,5;-12,75;31616,5;31457,75;ja;bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;-12,75;False;103,25;55,5;True;;
+US100;2026-10-07;bullish;Daily;85;31233,75;31403,75;170,0;31422,25;31143,0;ja;bullish;bullish;;;bullish;bullish;bullish;bullish;;bearish;;H4 läuft mit Daily;170,0;True;188,5;90,75;True;31616,5;False
+US100;2026-10-08;bullish;Daily;85;31233,75;31021,25;-212,5;31369,75;30792,0;ja;bullish;bullish;;;bullish;bullish;bullish;;bullish;bearish;;H4 läuft mit Daily;-212,5;False;136,0;441,75;False;31521,0;False
+US100;2026-10-09;bearish;Daily;75;31167,0;31108,75;-58,25;31180,0;30991,0;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4-Retracement beendet;58,25;True;176,0;13,0;True;30792,0;False
+US100;2026-10-12;neutral;;50;31045,25;30877,5;-167,75;31048,75;30844,25;ja;bearish;;bearish;bearish;bullish;bearish;bearish;;;bullish;;H4-Retracement beendet;;;;;;;
+US100;2026-10-13;bearish;Daily;70;30619,0;30782,0;163,0;30814,75;30591,25;ja;bearish;;bearish;bearish;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-163,0;False;27,75;195,75;False;30356,75;False
+US100;2026-10-14;bearish;Daily;85;30551,5;30139,25;-412,25;30660,75;30078,0;ja;bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;412,25;True;473,5;109,25;True;30356,75;True
+US100;2026-10-15;bearish;Daily;85;29746,0;30078,25;332,25;30196,75;29622,5;ja;bearish;bearish;;;bullish;bearish;bearish;bearish;;bullish;;H4 läuft mit Daily;-332,25;False;123,5;450,75;False;29648,0;True
+US100;2026-10-16;neutral;;0;30023,75;29391,5;-632,25;30045,75;29268,75;ja;bearish;bearish;;;bullish;bullish;;;bullish;bullish;;H4-Retracement;;;;;;;

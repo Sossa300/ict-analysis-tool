@@ -1,0 +1,134 @@
+﻿Lade Daten für EURUSD (EURUSD=X) ...
+================================================================
+ EURUSD – EUR/USD
+ Stand: Sa 17.10. 05:30 NY  |  11:30 Berlin
+ Letzter Preis: 1,12423
+================================================================
+
+ Geladene Daten:
+   W       146 Kerzen  ab 31.12.2023
+   D       730 Kerzen  ab 31.12.2023
+   H4     4363 Kerzen  ab 01.01.2024
+   H1    17130 Kerzen  ab 01.01.2024
+   M15    5567 Kerzen  ab 27.07.2026
+
+ Vortag  (Fr 16.10.2026): Do 15.10. 17:00 NY  |  23:00 Berlin  bis  17:00 NY
+   O 1,12183  H 1,12727  L 1,12120  C 1,12423
+ Vorwoche (KW 42/2026): 11.10. – 16.10.2026
+   O 1,11995  H 1,12727  L 1,11173  C 1,12423
+
+ Level           Preis        gebildet am                        seitdem
+ ----------------------------------------------------------------------------------
+  PDH         1,12727   Fr 16.10. 06:30 NY  |  12:30 Berlin  unberührt         (Abstand -0,00304)
+  PDL         1,12120   Do 15.10. 20:15 NY  |  02:15 Berlin  unberührt         (Abstand 0,00303)
+  PWH         1,12727   Fr 16.10. 06:30 NY  |  12:30 Berlin  unberührt         (Abstand -0,00304)
+  PWL         1,11173   Mi 14.10. 09:15 NY  |  15:15 Berlin  unberührt         (Abstand 0,01250)
+
+ Marktstruktur (Swing-Länge Daily 2 / H4 2, Bruch nur per Kerzenkörper, Kerzen-MSS: Daily)
+ ----------------------------------------------------------------------------------
+  Weekly  Trend: BEARISH   (nur Info)
+           letztes Swing High:      1,17151  (KW 34/2026)
+           letztes Swing Low :      1,13572  (KW 31/2026)
+           MSS nach unten KW 11/2026: Swing 1,15902 gebrochen
+           BOS nach unten KW 26/2026: Swing 1,14142 gebrochen
+           BOS nach unten KW 40/2026: Swing 1,13572 gebrochen
+
+  Daily   Trend: BULLISH
+           letztes Swing High:      1,16564  (Mi 09.09.2026)
+           letztes Swing Low :      1,11173  (Mi 14.10.2026)
+           MSS nach unten Mi 07.10.2026: Tief der High-Kerze vom Di 06.10.2026 (1,12070) per Körper gebrochen
+           BOS nach unten Mo 12.10.2026: Swing 1,11657 gebrochen
+           MSS nach oben  Do 15.10.2026: Hoch der Low-Kerze vom Mi 14.10.2026 (1,12145) per Körper gebrochen
+
+  H4      Trend: BULLISH
+           letztes Swing High:      1,12727  (Fr 16.10. 05:00 NY  |  11:00 Berlin)
+           letztes Swing Low :      1,11944  (Do 15.10. 05:00 NY  |  11:00 Berlin)
+           BOS nach unten Mi 14.10. 05:00 NY  |  11:00 Berlin: Swing 1,11520 gebrochen
+           MSS nach oben  Mi 14.10. 21:00 NY  |  03:00 Berlin: Swing 1,12145 gebrochen
+           BOS nach oben  Fr 16.10. 01:00 NY  |  07:00 Berlin: Swing 1,12435 gebrochen
+
+  Daily-Bein (Dealing Range):
+     Protected Low        1,11173  (Mi 14.10.2026)
+     Bein-Hoch            1,12727  (Fr 16.10. 05:00 NY  |  11:00 Berlin)
+     Equilibrium         1,11950  (50 %)
+     Preis 1,12423 liegt bei 80% der Range -> Premium
+
+  ==> HTF-Trend: BULLISH
+      H4-Phase : H4 läuft mit Daily
+      + Daily: letzter Bruch = MSS nach oben
+      + Daily: Protected Low hält
+      + H4: läuft mit dem Daily (BOS in Daily-Richtung)
+      - Daily: Trendwechsel frisch (MSS), noch kein BOS
+      - Preis im Daily-Premium – für bullish lieber auf Rücklauf in den Discount warten
+      i Weekly (nur Info): bearish
+
+ Daily Bias
+ ----------------------------------------------------------------------------------
+  ==> BIAS: NEUTRAL – kein Trade   (Konfidenz 50 %)
+      i Daily allein: NEUTRAL (Widerspruch) -> H4-Umkehr gefunden, H4 wird geprüft
+      i -> H4-Signal reicht nicht (Konfidenz zu niedrig), bleibt NEUTRAL
+      H4-Umkehr: 2-Kerzen-Umkehr an PDL 1,11520 (Mi 14.10. 13:00 NY  |  19:00 Berlin)
+                 -> MSS nach oben Mi 14.10. 21:00 NY  |  03:00 Berlin, Sweep-Extrem 1,11173 hält, BOS danach
+      Previous Day: Vortag (Fr 16.10.) hat das Hoch vom Do 15.10. (1,12435) gesweept und darunter geschlossen -> mögliches bearishes Reversal
+      + H4-LQS (2-Kerzen-Umkehr) an PDL 1,11520, Spitze 1,11173 (+10)
+      + danach H4-MSS nach oben per Körper (+10)
+      + H4-BOS nach oben bestätigt (+5)
+      + DOL: PDH / PWH bei 1,12727 (+10)
+      - H4-geführt: Daily hat den Wechsel noch nicht bestätigt (-10)
+      - Vortag (Fr 16.10.) hat das Hoch vom Do 15.10. (1,12435) gesweept und darunter geschlossen -> mögliches bearishes Reversal (-15)
+      - Preis im H4-Premium (61% der Range), für bullish besser im Discount (-10)
+      - Konfidenz unter 55 % -> zu schwach
+      Liquiditätsziele in HTF-Richtung (nächstes = DOL):
+             1,12727  PDH / PWH
+             1,12880  Daily-FVG Do 01.10.
+             1,14012  Daily-FVG Mi 23.09.
+             1,14548  Daily-FVG Di 22.09.
+
+ POIs (Points of Interest)
+ ----------------------------------------------------------------------------------
+  Stufe A – Daily (Richtung bullish):
+    Daily-OB   1,07817–1,08331  Di 01.04.2025  Mitigation: keine      Discount  Abstand 0,04092  -> nicht handelbar (kein Bias)
+    Daily-FVG  1,06304–1,07712  Mi 05.03.2025  Mitigation: teilweise  Discount  Abstand 0,04711  -> nicht handelbar (kein Bias)
+    Daily-FVG  1,05020–1,06056  Di 04.03.2025  Mitigation: keine      Discount  Abstand 0,06367  -> nicht handelbar (kein Bias)
+    Daily-FVG  1,04232–1,04745  Mo 03.03.2025  Mitigation: keine      Discount  Abstand 0,07678  -> nicht handelbar (kein Bias)
+    Daily-OB   1,03627–1,04232  Fr 28.02.2025  Mitigation: keine      Discount  Abstand 0,08191  -> nicht handelbar (kein Bias)
+
+  Stufe B – H4 (zählt nur mit >= 3/4 Bestätigungen, Richtung + Bereich ist Pflicht):
+    H4-FVG     1,11607–1,12007  14.10. 17:00 NY  Mitigation: teilweise  Abstand 0,00416  -> zählt nicht (2/4)
+        [x] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [ ] Daily-Überschneidung
+    H4-FVG     1,11408–1,11545  14.10. 13:00 NY  Mitigation: keine  Abstand 0,00878  -> zählt nicht (2/4)
+        [x] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [ ] Daily-Überschneidung
+    H4-OB      1,11173–1,11408  14.10. 09:00 NY  Mitigation: keine  Abstand 0,01015  -> zählt nicht (2/4)
+        [x] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [ ] Daily-Überschneidung
+
+  24 offene POIs GEGEN die HTF-Richtung ausgeblendet (harte Regel 1: nie handelbar)
+
+ Sweep-Punkte (Beobachtungsliste – den Sweep bewertest DU im M15)
+ ----------------------------------------------------------------------------------
+  ungültig PDL       1,12120   Abstand   -0,00303   Status (M15): offen
+  ungültig PDH       1,12727   Abstand    0,00304   Status (M15): offen
+  ungültig PWH       1,12727   Abstand    0,00304   Status (M15): offen
+  ungültig PWL       1,11173   Abstand   -0,01250   Status (M15): offen
+  -> Kein Bias: KEIN Sweep-Punkt gültig (kein Trade)
+     (Session Highs/Lows kommen als weitere Sweep-Punkte noch dazu)
+
+ Checkliste im M15 (selbst prüfen):
+  [ ] HTF-Trend unklar -> heute keinen Sweep suchen
+
+================================================================
+ ZUSAMMENFASSUNG
+================================================================
+ EURUSD – Bias: NEUTRAL – kein Trade (Konfidenz 50 %).
+ Gründe dafür: H4-LQS (2-Kerzen-Umkehr) an PDL 1,11520, Spitze 1,11173; danach H4-MSS nach oben per Körper; H4-BOS nach oben bestätigt.
+ Dagegen: H4-geführt: Daily hat den Wechsel noch nicht bestätigt; Vortag (Fr 16.10.) hat das Hoch vom Do 15.10. (1,12435) gesweept und darunter geschlossen -> mögliches bearishes Reversal; Preis im H4-Premium (61% der Range), für bullish besser im Discount; Konfidenz unter 55 % -> zu schwach.
+ POIs: keine handelbaren POIs in HTF-Richtung.
+
+ Checkliste vor dem Trade:
+  [ ] Bias klar?  -> NEIN: heute kein Trade
+  [ ] Trade in HTF-Richtung?
+  [ ] Gültiger Sweep? (selbst im M15 prüfen, siehe Checkliste oben)
+  [ ] POI-Stufe? kein handelbarer POI
+  [ ] M15-Bestätigung? (MSS per Körper + FVG)
+
+ Hinweis: Entscheidungshilfe, kein Signal. Die Entscheidung triffst du.
+

@@ -1,0 +1,291 @@
+﻿[US100] Lade Daten ...
+  0/515 Tage ...
+  50/515 Tage ...
+  100/515 Tage ...
+  150/515 Tage ...
+  200/515 Tage ...
+  250/515 Tage ...
+  300/515 Tage ...
+  350/515 Tage ...
+  400/515 Tage ...
+  450/515 Tage ...
+  500/515 Tage ...
+[EURUSD] Lade Daten ...
+  0/522 Tage ...
+  50/522 Tage ...
+  100/522 Tage ...
+  150/522 Tage ...
+  200/522 Tage ...
+  250/522 Tage ...
+  300/522 Tage ...
+  350/522 Tage ...
+  400/522 Tage ...
+  450/522 Tage ...
+  500/522 Tage ...
+[EURGBP] Lade Daten ...
+  0/522 Tage ...
+  50/522 Tage ...
+  100/522 Tage ...
+  150/522 Tage ...
+  200/522 Tage ...
+  250/522 Tage ...
+  300/522 Tage ...
+  350/522 Tage ...
+  400/522 Tage ...
+  450/522 Tage ...
+  500/522 Tage ...
+ALLE Instrumente – Bewertung bis Tagesschluss (17:00 NY)
+(Jahr 1: bis 2025-10-16, Jahr 2: ab 2025-10-16)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+Tool: Trend bei H4-Retracement  Tool         384     55%    50%–60%      50%   +5.6%  +5.8%  +5.1%   GESICHERT besser
+Tool: Daily-Trend               Tool        1525     52%    50%–55%      50%   +2.0%  +0.5%  +3.3%   kein Vorteil
+Tool: finaler Bias              Tool         909     52%    49%–56%      50%   +1.9%  +0.5%  +3.0%   kein Vorteil
+London-Richtung Umkehr          Session     1514     51%    49%–54%      50%   +1.5%  +1.7%  +1.3%   kein Vorteil
+DOL näheres PDH/PDL             ICT         1453     51%    48%–54%      50%   +1.2%  +2.5%  -0.0%   kein Vorteil
+PD nur Reversal                 ICT          472     51%    47%–56%      50%   +1.2%  +3.7%  -1.0%   kein Vorteil
+Midnight Open Discount          ICT         1506     51%    48%–53%      50%   +1.2%  +1.0%  +1.4%   kein Vorteil
+Weekly Open Momentum            ICT         1519     52%    49%–54%      51%   +1.0%  +1.0%  +1.0%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich   1525     47%    44%–49%      46%   +0.4%  +0.4%  +0.4%   kein Vorteil
+Tagesopen Discount (Po3)        ICT         1514     50%    48%–53%      50%   +0.0%  -0.1%  +0.3%   kein Vorteil
+PD nur Fortsetzung              ICT          755     51%    47%–54%      51%   +0.0%  -0.7%  +0.6%   kein Vorteil
+Tagesopen Momentum              ICT         1514     50%    47%–52%      50%   -0.0%  +0.1%  -0.3%   kein Vorteil
+Overnight-Momentum              Studie      1402     49%    47%–52%      50%   -0.2%  +0.3%  -0.8%   kein Vorteil
+TTrades Candle-2-Closure        ICT         1449     50%    48%–53%      51%   -0.4%  -1.5%  +0.7%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch   1525     50%    48%–53%      51%   -0.6%  +0.5%  -1.7%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch   1512     49%    47%–52%      50%   -0.8%  -2.7%  +1.1%   kein Vorteil
+Pivot-Punkt                     Klassisch   1525     49%    46%–51%      50%   -1.0%  +0.2%  -2.2%   kein Vorteil
+Weekly Open Discount            ICT         1519     48%    46%–51%      49%   -1.0%  -1.0%  -1.0%   kein Vorteil
+Midnight Open Momentum          ICT         1506     49%    47%–52%      50%   -1.2%  -1.0%  -1.4%   kein Vorteil
+SMA 20 Tage                     Klassisch   1525     49%    46%–51%      50%   -1.2%  -0.6%  -2.1%   kein Vorteil
+London-Richtung Fortsetzung     Session     1514     49%    46%–51%      50%   -1.5%  -1.7%  -1.3%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT          181     49%    41%–56%      50%   -1.5%  -0.4%  -1.9%   kein Vorteil
+Asia-Ausbruch einseitig         Session      616     49%    45%–53%      51%   -1.6%  +1.8%  -5.3%   kein Vorteil
+SMA 50 Tage                     Klassisch   1525     48%    46%–51%      50%   -1.9%  -2.0%  -2.3%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    724     48%    45%–52%      50%   -2.0%  -3.4%  -0.9%   kein Vorteil
+Vortag Schlusslage              Klassisch   1050     49%    46%–52%      51%   -2.2%  -2.5%  -2.0%   kein Vorteil
+SMT-Divergenz                   ICT          235     47%    41%–54%      50%   -2.4%  -2.1%  -2.6%   kein Vorteil
+
+US100 – Bewertung bis Tagesschluss (17:00 NY)
+(Jahr 1: bis 2025-10-16, Jahr 2: ab 2025-10-16)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+Tool: Trend bei H4-Retracement  Tool         113     62%    53%–70%      50%  +12.4%  +9.8% +15.0%   GESICHERT besser
+PD nur Reversal                 ICT          146     54%    46%–62%      50%   +4.5%  +0.3%  +8.8%   kein Vorteil
+DOL näheres PDH/PDL             ICT          491     53%    48%–57%      50%   +2.8%  +4.8%  +0.8%   kein Vorteil
+London-Richtung Umkehr          Session      497     52%    48%–56%      50%   +2.4%  +0.9%  +3.8%   kein Vorteil
+Tool: Daily-Trend               Tool         501     53%    48%–57%      50%   +2.3%  -2.3%  +6.9%   kein Vorteil
+Tool: finaler Bias              Tool         304     52%    46%–58%      50%   +1.8%  -4.1%  +6.9%   kein Vorteil
+TTrades Candle-2-Closure        ICT          475     52%    47%–56%      50%   +1.6%  -3.6%  +6.9%   kein Vorteil
+Midnight Open Discount          ICT          495     51%    47%–55%      50%   +1.2%  -0.6%  +3.0%   kein Vorteil
+PD nur Fortsetzung              ICT          265     51%    45%–57%      51%   +0.7%  -3.1%  +4.4%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          501     50%    46%–55%      50%   +0.6%  -0.8%  +2.0%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    501     53%    48%–57%      53%   +0.1%  +0.2%  +0.0%   kein Vorteil
+Weekly Open Momentum            ICT          501     51%    46%–55%      51%   +0.1%  +1.4%  -1.2%   kein Vorteil
+Weekly Open Discount            ICT          501     49%    45%–54%      49%   -0.1%  -1.4%  +1.2%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    501     50%    46%–55%      50%   -0.1%  -1.1%  +0.9%   kein Vorteil
+Tagesopen Momentum              ICT          501     50%    45%–54%      50%   -0.6%  +0.8%  -2.0%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    500     49%    45%–53%      50%   -1.2%  -5.0%  +2.6%   kein Vorteil
+Midnight Open Momentum          ICT          495     49%    45%–53%      50%   -1.2%  +0.6%  -3.0%   kein Vorteil
+Overnight-Momentum              Studie       389     49%    44%–54%      50%   -1.5%  +1.6%  -4.5%   kein Vorteil
+SMA 50 Tage                     Klassisch    501     50%    45%–54%      51%   -1.7%  +0.1%  -3.5%   kein Vorteil
+Pivot-Punkt                     Klassisch    501     49%    45%–53%      51%   -1.7%  -2.2%  -1.2%   kein Vorteil
+Asia-Ausbruch einseitig         Session      220     49%    42%–55%      51%   -1.9%  +2.3%  -5.8%   kein Vorteil
+London-Richtung Fortsetzung     Session      497     48%    44%–52%      50%   -2.4%  -0.9%  -3.8%   kein Vorteil
+Vortag Schlusslage              Klassisch    343     48%    43%–53%      51%   -2.4%  -4.1%  -0.8%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    235     48%    41%–54%      50%   -2.6%  -3.4%  -1.9%   kein Vorteil
+SMA 20 Tage                     Klassisch    501     48%    44%–52%      51%   -2.9%  -0.3%  -5.5%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT           83     45%    34%–55%      50%   -5.8%  -5.0%  -6.4%   kein Vorteil
+SMT-Divergenz                   ICT           98     42%    33%–52%      49%   -7.2%  -5.9%  -8.3%   kein Vorteil
+
+EURUSD – Bewertung bis Tagesschluss (17:00 NY)
+(Jahr 1: bis 2025-10-17, Jahr 2: ab 2025-10-17)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+Tool: Trend bei H4-Retracement  Tool         133     56%    47%–64%      50%   +5.8% +14.2%  -1.9%   kein Vorteil
+DOL näheres PDH/PDL             ICT          496     54%    50%–58%      50%   +4.0%  +2.9%  +5.2%   in beiden Jahren besser (nicht gesichert)
+Tool: Daily-Trend               Tool         511     53%    49%–58%      50%   +3.2%  +5.3%  +0.5%   kein Vorteil
+Tool: finaler Bias              Tool         316     53%    47%–58%      50%   +2.5%  +5.3%  -1.6%   kein Vorteil
+Tagesopen Momentum              ICT          501     52%    48%–57%      50%   +2.4%  +1.8%  +2.8%   kein Vorteil
+Overnight-Momentum              Studie       501     52%    48%–57%      50%   +2.4%  +1.8%  +2.8%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT           67     52%    40%–64%      50%   +2.4%  +1.9%  +4.4%   kein Vorteil
+Weekly Open Momentum            ICT          505     52%    48%–56%      50%   +2.1%  +2.3%  +1.6%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    500     52%    47%–56%      50%   +1.7%  +2.4%  +0.7%   kein Vorteil
+London-Richtung Fortsetzung     Session      506     52%    47%–56%      50%   +1.7%  -2.0%  +5.2%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    241     51%    45%–58%      50%   +1.3%  -0.8%  +2.8%   kein Vorteil
+SMT-Divergenz                   ICT          137     51%    43%–59%      50%   +1.0%  +0.2%  +2.5%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    511     49%    45%–53%      48%   +0.7%  +0.6%  +0.7%   kein Vorteil
+SMA 20 Tage                     Klassisch    511     50%    46%–55%      50%   +0.5%  +1.3%  -1.3%   kein Vorteil
+Midnight Open Momentum          ICT          500     50%    46%–55%      50%   +0.2%  -2.6%  +2.7%   kein Vorteil
+Pivot-Punkt                     Klassisch    511     50%    46%–54%      50%   -0.0%  +2.8%  -3.0%   kein Vorteil
+Midnight Open Discount          ICT          500     50%    45%–54%      50%   -0.2%  +2.6%  -2.7%   kein Vorteil
+PD nur Fortsetzung              ICT          253     50%    44%–56%      50%   -0.3%  +1.1%  -2.3%   kein Vorteil
+TTrades Candle-2-Closure        ICT          493     50%    45%–54%      50%   -0.3%  +2.0%  -2.9%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    511     49%    45%–54%      50%   -0.8%  +2.8%  -4.6%   kein Vorteil
+SMA 50 Tage                     Klassisch    511     49%    45%–53%      50%   -0.8%  +0.4%  -3.1%   kein Vorteil
+PD nur Reversal                 ICT          159     49%    41%–57%      50%   -0.9%  +6.4%  -6.6%   kein Vorteil
+Asia-Ausbruch einseitig         Session      215     49%    42%–55%      50%   -1.1%  +0.4%  -2.7%   kein Vorteil
+Vortag Schlusslage              Klassisch    356     49%    44%–54%      50%   -1.2%  +0.9%  -3.6%   kein Vorteil
+London-Richtung Umkehr          Session      506     48%    44%–53%      50%   -1.7%  +2.0%  -5.2%   kein Vorteil
+Weekly Open Discount            ICT          505     48%    44%–52%      50%   -2.1%  -2.3%  -1.6%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          501     48%    43%–52%      50%   -2.4%  -1.8%  -2.8%   kein Vorteil
+
+EURGBP – Bewertung bis Tagesschluss (17:00 NY)
+(Jahr 1: bis 2025-10-17, Jahr 2: ab 2025-10-17)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+London-Richtung Umkehr          Session      511     53%    49%–58%      50%   +3.8%  +2.5%  +5.1%   in beiden Jahren besser (nicht gesichert)
+Midnight Open Discount          ICT          511     52%    48%–56%      49%   +2.4%  +1.3%  +3.6%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          512     53%    49%–57%      51%   +1.9%  +2.3%  +1.5%   kein Vorteil
+Tool: finaler Bias              Tool         289     53%    47%–58%      51%   +1.2%  -0.1%  +2.4%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT           31     52%    35%–68%      50%   +1.2%  +7.5%  -2.6%   kein Vorteil
+Weekly Open Momentum            ICT          513     52%    48%–56%      51%   +0.9%  -0.7%  +2.5%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    513     39%    34%–43%      38%   +0.4%  +0.5%  +0.4%   kein Vorteil
+Tool: Daily-Trend               Tool         513     51%    46%–55%      50%   +0.4%  -1.3%  +1.9%   kein Vorteil
+PD nur Reversal                 ICT          167     51%    44%–59%      51%   +0.3%  +4.5%  -3.5%   kein Vorteil
+Tool: Trend bei H4-Retracement  Tool         138     50%    42%–58%      50%   -0.2%  -3.0%  +3.1%   kein Vorteil
+PD nur Fortsetzung              ICT          237     51%    45%–58%      52%   -0.4%  +0.4%  -1.3%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    513     51%    47%–55%      52%   -0.8%  -0.5%  -1.1%   kein Vorteil
+Weekly Open Discount            ICT          513     48%    44%–52%      49%   -0.9%  +0.7%  -2.5%   kein Vorteil
+SMA 20 Tage                     Klassisch    513     49%    44%–53%      50%   -1.1%  -3.4%  +0.9%   kein Vorteil
+Pivot-Punkt                     Klassisch    513     48%    44%–52%      49%   -1.2%  -0.1%  -2.4%   kein Vorteil
+Asia-Ausbruch einseitig         Session      181     50%    43%–57%      52%   -1.9%  +2.8%  -8.1%   kein Vorteil
+Tagesopen Momentum              ICT          512     47%    43%–51%      49%   -1.9%  -2.3%  -1.5%   kein Vorteil
+Overnight-Momentum              Studie       512     47%    43%–51%      49%   -1.9%  -2.3%  -1.5%   kein Vorteil
+Midnight Open Momentum          ICT          511     48%    44%–52%      51%   -2.4%  -1.3%  -3.6%   kein Vorteil
+TTrades Candle-2-Closure        ICT          481     49%    45%–54%      52%   -2.4%  -2.9%  -1.9%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    512     47%    43%–52%      50%   -2.7%  -5.4%  +0.0%   kein Vorteil
+Vortag Schlusslage              Klassisch    351     50%    45%–55%      53%   -2.9%  -4.1%  -1.7%   kein Vorteil
+SMA 50 Tage                     Klassisch    513     47%    43%–51%      50%   -3.2%  -6.9%  -0.1%   kein Vorteil
+DOL näheres PDH/PDL             ICT          466     46%    42%–51%      50%   -3.4%  -0.4%  -6.5%   kein Vorteil
+London-Richtung Fortsetzung     Session      511     47%    42%–51%      50%   -3.8%  -2.5%  -5.1%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    248     46%    39%–52%      50%   -4.6%  -6.1%  -3.3%   kein Vorteil
+
+ALLE Instrumente – Bewertung bis 18:00 Berlin (NY-Vormittag)
+(Jahr 1: bis 2025-10-16, Jahr 2: ab 2025-10-16)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+Tool: Trend bei H4-Retracement  Tool         379     54%    49%–59%      50%   +4.7%  +5.1%  +4.2%   in beiden Jahren besser (nicht gesichert)
+PD nur Reversal                 ICT          469     52%    47%–56%      50%   +1.7%  +1.6%  +2.0%   kein Vorteil
+Tool: Daily-Trend               Tool        1524     52%    49%–54%      50%   +1.4%  +1.9%  +0.8%   kein Vorteil
+DOL näheres PDH/PDL             ICT         1452     51%    49%–54%      50%   +1.3%  +2.2%  +0.5%   kein Vorteil
+Tool: finaler Bias              Tool         907     51%    48%–55%      50%   +1.2%  +1.7%  +0.5%   kein Vorteil
+Weekly Open Momentum            ICT         1518     51%    49%–54%      51%   +0.9%  +1.9%  -0.0%   kein Vorteil
+Midnight Open Discount          ICT         1505     51%    48%–53%      50%   +0.8%  +0.8%  +1.0%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich   1524     50%    47%–52%      49%   +0.5%  +0.3%  +0.6%   kein Vorteil
+Tagesopen Discount (Po3)        ICT         1514     50%    48%–53%      50%   +0.4%  +0.8%  +0.1%   kein Vorteil
+SMA 50 Tage                     Klassisch   1524     51%    48%–53%      51%   +0.3%  +1.4%  -1.1%   kein Vorteil
+London-Richtung Umkehr          Session     1513     50%    47%–52%      50%   +0.2%  +1.0%  -0.5%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch   1524     50%    48%–53%      50%   -0.1%  +0.0%  -0.4%   kein Vorteil
+London-Richtung Fortsetzung     Session     1513     50%    48%–53%      50%   -0.2%  -1.0%  +0.5%   kein Vorteil
+Tagesopen Momentum              ICT         1514     50%    47%–52%      50%   -0.4%  -0.8%  -0.1%   kein Vorteil
+Overnight-Momentum              Studie      1402     50%    47%–52%      50%   -0.5%  -0.5%  -0.5%   kein Vorteil
+TTrades Candle-2-Closure        ICT         1447     50%    47%–52%      50%   -0.7%  -1.7%  +0.4%   kein Vorteil
+SMA 20 Tage                     Klassisch   1524     50%    47%–52%      50%   -0.7%  +1.9%  -3.5%   kein Vorteil
+PD nur Fortsetzung              ICT          754     50%    46%–53%      51%   -0.7%  -1.6%  +0.1%   kein Vorteil
+Asia-Ausbruch einseitig         Session      616     50%    46%–54%      50%   -0.8%  +1.0%  -2.8%   kein Vorteil
+Midnight Open Momentum          ICT         1505     49%    47%–52%      50%   -0.8%  -0.8%  -1.0%   kein Vorteil
+Weekly Open Discount            ICT         1518     49%    46%–51%      49%   -0.9%  -1.9%  +0.0%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch   1512     49%    47%–52%      50%   -1.1%  -1.9%  -0.3%   kein Vorteil
+Pivot-Punkt                     Klassisch   1524     49%    46%–51%      50%   -1.5%  -1.4%  -1.7%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    726     48%    44%–52%      50%   -2.3%  -2.2%  -2.4%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT          180     48%    41%–55%      50%   -2.4%  -5.0%  +0.5%   kein Vorteil
+Vortag Schlusslage              Klassisch   1048     48%    45%–51%      51%   -2.4%  -3.5%  -1.3%   kein Vorteil
+SMT-Divergenz                   ICT          232     45%    39%–52%      49%   -4.1%  -5.9%  -2.1%   kein Vorteil
+
+US100 – Bewertung bis 18:00 Berlin (NY-Vormittag)
+(Jahr 1: bis 2025-10-16, Jahr 2: ab 2025-10-16)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+Tool: Trend bei H4-Retracement  Tool         113     58%    48%–66%      49%   +8.3% +13.3%  +3.6%   in beiden Jahren besser (nicht gesichert)
+PD nur Reversal                 ICT          146     53%    45%–61%      49%   +4.1%  +0.5%  +8.0%   kein Vorteil
+Tool: finaler Bias              Tool         304     53%    47%–58%      50%   +2.6%  +5.0%  +0.9%   kein Vorteil
+DOL näheres PDH/PDL             ICT          491     52%    48%–57%      50%   +2.4%  +3.6%  +1.1%   kein Vorteil
+Tool: Daily-Trend               Tool         501     53%    48%–57%      51%   +2.0%  +3.6%  +0.8%   kein Vorteil
+Weekly Open Momentum            ICT          501     53%    48%–57%      51%   +1.6%  +4.0%  -0.8%   kein Vorteil
+Midnight Open Discount          ICT          495     51%    47%–55%      49%   +1.5%  -0.5%  +3.3%   kein Vorteil
+TTrades Candle-2-Closure        ICT          475     52%    47%–56%      50%   +1.4%  -0.4%  +3.4%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    234     52%    45%–58%      51%   +1.2%  +4.1%  -1.5%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    500     51%    47%–55%      50%   +0.6%  +1.0%  +0.3%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          501     50%    46%–54%      49%   +0.5%  +1.4%  -0.6%   kein Vorteil
+PD nur Fortsetzung              ICT          265     51%    45%–57%      51%   +0.3%  +1.3%  -0.6%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    501     55%    51%–59%      55%   +0.1%  +0.2%  +0.0%   kein Vorteil
+London-Richtung Fortsetzung     Session      497     51%    46%–55%      50%   +0.0%  -0.2%  +0.3%   kein Vorteil
+London-Richtung Umkehr          Session      497     49%    45%–54%      50%   -0.0%  +0.2%  -0.3%   kein Vorteil
+Asia-Ausbruch einseitig         Session      221     51%    44%–57%      51%   -0.3%  +0.7%  -1.2%   kein Vorteil
+Vortag Schlusslage              Klassisch    342     51%    45%–56%      51%   -0.4%  +0.7%  -1.4%   kein Vorteil
+Pivot-Punkt                     Klassisch    501     51%    46%–55%      51%   -0.4%  -2.4%  +1.5%   kein Vorteil
+Tagesopen Momentum              ICT          501     50%    46%–54%      51%   -0.5%  -1.4%  +0.6%   kein Vorteil
+Overnight-Momentum              Studie       389     50%    45%–55%      51%   -0.7%  -0.6%  -0.6%   kein Vorteil
+SMA 50 Tage                     Klassisch    501     51%    47%–55%      52%   -1.1%  +2.5%  -4.3%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    501     50%    45%–54%      51%   -1.3%  +0.8%  -3.4%   kein Vorteil
+Midnight Open Momentum          ICT          495     49%    45%–53%      51%   -1.5%  +0.5%  -3.3%   kein Vorteil
+Weekly Open Discount            ICT          501     47%    43%–52%      49%   -1.6%  -4.0%  +0.8%   kein Vorteil
+SMA 20 Tage                     Klassisch    501     50%    45%–54%      51%   -2.0%  +3.0%  -6.6%   kein Vorteil
+SMT-Divergenz                   ICT           98     46%    36%–56%      48%   -2.3%  -3.3%  -1.4%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT           82     46%    36%–57%      51%   -4.2%  -6.7%  -1.9%   kein Vorteil
+
+EURUSD – Bewertung bis 18:00 Berlin (NY-Vormittag)
+(Jahr 1: bis 2025-10-17, Jahr 2: ab 2025-10-17)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+DOL näheres PDH/PDL             ICT          489     53%    49%–58%      50%   +3.4%  +2.2%  +4.7%   in beiden Jahren besser (nicht gesichert)
+Tool: Trend bei H4-Retracement  Tool         127     53%    44%–61%      50%   +3.2%  +4.3%  +1.9%   kein Vorteil
+Tool: Daily-Trend               Tool         504     53%    48%–57%      50%   +2.6%  +2.2%  +2.5%   in beiden Jahren besser (nicht gesichert)
+Asia-Sweep Umkehr (Judas)       ICT           66     52%    40%–63%      50%   +1.9%  -3.1%  +8.3%   kein Vorteil
+Weekly Open Momentum            ICT          498     52%    48%–56%      50%   +1.9%  +3.0%  +0.7%   kein Vorteil
+SMA 20 Tage                     Klassisch    504     52%    47%–56%      50%   +1.5%  +3.4%  -1.4%   kein Vorteil
+Tool: finaler Bias              Tool         311     51%    46%–57%      50%   +1.5%  +2.0%  +0.2%   kein Vorteil
+London-Richtung Fortsetzung     Session      499     52%    47%–56%      50%   +1.4%  -0.6%  +3.2%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    504     48%    43%–52%      47%   +1.3%  +0.8%  +1.7%   kein Vorteil
+SMA 50 Tage                     Klassisch    504     51%    46%–55%      50%   +0.9%  +1.4%  -0.7%   kein Vorteil
+Tagesopen Momentum              ICT          495     51%    47%–55%      50%   +0.7%  +2.0%  -0.9%   kein Vorteil
+Overnight-Momentum              Studie       495     51%    47%–55%      50%   +0.7%  +2.0%  -0.9%   kein Vorteil
+PD nur Fortsetzung              ICT          251     51%    44%–57%      50%   +0.4%  -0.7%  +1.3%   kein Vorteil
+Midnight Open Discount          ICT          493     50%    46%–55%      50%   +0.4%  +2.0%  -0.9%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    504     50%    46%–55%      50%   -0.0%  +1.4%  -1.6%   kein Vorteil
+Midnight Open Momentum          ICT          493     50%    45%–54%      50%   -0.4%  -2.0%  +0.9%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          495     49%    45%–53%      50%   -0.7%  -2.0%  +0.9%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    494     49%    45%–53%      50%   -1.2%  -2.0%  -0.6%   kein Vorteil
+London-Richtung Umkehr          Session      499     48%    44%–53%      50%   -1.4%  +0.6%  -3.2%   kein Vorteil
+Weekly Open Discount            ICT          498     48%    44%–52%      50%   -1.9%  -3.0%  -0.7%   kein Vorteil
+TTrades Candle-2-Closure        ICT          486     48%    44%–53%      50%   -1.9%  +0.6%  -4.6%   kein Vorteil
+Pivot-Punkt                     Klassisch    504     48%    44%–52%      50%   -2.3%  -0.2%  -4.6%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    241     48%    41%–54%      50%   -2.7%  -4.3%  -1.4%   kein Vorteil
+Asia-Ausbruch einseitig         Session      210     47%    41%–54%      50%   -2.8%  -1.3%  -4.3%   kein Vorteil
+Vortag Schlusslage              Klassisch    352     47%    42%–52%      50%   -3.1%  -2.6%  -3.8%   kein Vorteil
+PD nur Reversal                 ICT          155     45%    38%–53%      50%   -4.8%  +3.5% -11.4%   kein Vorteil
+SMT-Divergenz                   ICT          134     45%    37%–53%      50%   -5.4%  -7.3%  -2.7%   kein Vorteil
+
+EURGBP – Bewertung bis 18:00 Berlin (NY-Vormittag)
+(Jahr 1: bis 2025-10-17, Jahr 2: ab 2025-10-17)
+--------------------------------------------------------------------------------------------------------------------------
+Methode                         Gruppe      Tage Treffer  95%-Bereich Zufall Vorteil  Jahr1  Jahr2   Urteil
+PD nur Reversal                 ICT          168     56%    48%–63%      50%   +5.6%  +1.0%  +9.9%   kein Vorteil
+Tool: Trend bei H4-Retracement  Tool         139     53%    45%–61%      50%   +3.2%  +0.3%  +6.8%   kein Vorteil
+London-Richtung Umkehr          Session      517     52%    48%–56%      50%   +2.0%  +2.3%  +1.6%   kein Vorteil
+Tagesopen Discount (Po3)        ICT          518     52%    47%–56%      50%   +1.4%  +2.9%  +0.0%   kein Vorteil
+SMA 50 Tage                     Klassisch    519     51%    47%–55%      50%   +1.1%  -0.0%  +1.8%   kein Vorteil
+Asia-Ausbruch einseitig         Session      185     51%    44%–58%      50%   +0.9%  +3.9%  -3.1%   kein Vorteil
+Vorwoche Kerzenfarbe            Klassisch    519     51%    47%–56%      50%   +0.8%  -2.5%  +4.0%   kein Vorteil
+Midnight Open Discount          ICT          517     50%    46%–55%      50%   +0.6%  +1.0%  +0.3%   kein Vorteil
+Weekly Open Discount            ICT          519     50%    46%–55%      50%   +0.6%  +1.2%  +0.0%   kein Vorteil
+Immer bullish (Vergleich)       Vergleich    519     47%    43%–51%      47%   +0.0%  -0.0%  -0.0%   kein Vorteil
+Tool: Daily-Trend               Tool         519     50%    45%–54%      50%   -0.4%  +0.4%  -1.3%   kein Vorteil
+Weekly Open Momentum            ICT          519     50%    45%–54%      50%   -0.6%  -1.2%  +0.0%   kein Vorteil
+Midnight Open Momentum          ICT          517     50%    45%–54%      50%   -0.6%  -1.0%  -0.3%   kein Vorteil
+Tool: finaler Bias              Tool         292     50%    44%–55%      50%   -0.7%  -1.1%  -0.5%   kein Vorteil
+Tagesopen Momentum              ICT          518     48%    44%–53%      50%   -1.4%  -2.9%  +0.0%   kein Vorteil
+Overnight-Momentum              Studie       518     48%    44%–53%      50%   -1.4%  -2.9%  +0.0%   kein Vorteil
+TTrades Candle-2-Closure        ICT          486     49%    45%–53%      50%   -1.4%  -5.4%  +2.5%   kein Vorteil
+SMA 20 Tage                     Klassisch    519     48%    44%–53%      50%   -1.6%  -1.1%  -2.2%   kein Vorteil
+Pivot-Punkt                     Klassisch    519     48%    44%–52%      50%   -1.8%  -1.5%  -2.2%   kein Vorteil
+London-Richtung Fortsetzung     Session      517     48%    44%–52%      50%   -2.0%  -2.3%  -1.6%   kein Vorteil
+DOL näheres PDH/PDL             ICT          472     48%    43%–52%      50%   -2.0%  +0.5%  -4.4%   kein Vorteil
+Vortag Kerzenfarbe              Klassisch    518     47%    43%–52%      50%   -2.6%  -4.6%  -0.5%   kein Vorteil
+PD nur Fortsetzung              ICT          238     47%    41%–54%      51%   -3.0%  -5.1%  -0.8%   kein Vorteil
+Vortag Schlusslage              Klassisch    354     47%    42%–52%      51%   -3.7%  -8.2%  +1.2%   kein Vorteil
+Daily+H4 gleichfarbig           Klassisch    251     45%    39%–51%      50%   -5.1%  -6.2%  -4.1%   kein Vorteil
+Asia-Sweep Umkehr (Judas)       ICT           32     44%    28%–61%      50%   -6.4%  -4.8%  -7.3%   kein Vorteil
+
+Gespeichert: backtest_ergebnisse/methoden_ranking.txt und methoden_*.csv

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets / local settings (none needed today – keep it that way)
+.env
+.streamlit/secrets.toml
+
+# Personal trading data (stays on your PC only)
+meine_backtests/
+forward_test/journal.csv
+forward_test/*.csv
+
+# Private files that are not part of the tool
+Nebenverdienst-Tracking.xlsx
+*.xlsx
+~$*
+
+# Generated output (re-create with: python main.py --chart)
+charts/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

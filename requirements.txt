@@ -1,0 +1,6 @@
+pandas>=2.1
+yfinance>=0.2.40
+tzdata
+pytest
+streamlit
+plotly

@@ -1,0 +1,136 @@
+﻿Lade Daten für US100 (NQ=F) ...
+================================================================
+ US100 – Nasdaq 100 (E-mini Future)
+ Stand: Sa 17.10. 05:30 NY  |  11:30 Berlin
+ Letzter Preis: 29.391,50
+================================================================
+
+ Geladene Daten:
+   W       126 Kerzen  ab 23.05.2024
+   D       618 Kerzen  ab 23.05.2024
+   H4     3607 Kerzen  ab 24.05.2024
+   H1    13725 Kerzen  ab 24.05.2024
+   M15    4554 Kerzen  ab 07.08.2026
+
+ Vortag  (Fr 16.10.2026): Do 15.10. 18:00 NY  |  00:00 Berlin  bis  17:00 NY
+   O 30.089,00  H 30.225,00  L 29.268,75  C 29.391,50
+ Vorwoche (KW 42/2026): 11.10. – 16.10.2026
+   O 31.180,50  H 31.289,25  L 29.268,75  C 29.391,50
+
+ Level           Preis        gebildet am                        seitdem
+ ----------------------------------------------------------------------------------
+  PDH       30.225,00   Fr 16.10. 01:00 NY  |  07:00 Berlin  unberührt         (Abstand -833,50)
+  PDL       29.268,75   Fr 16.10. 15:00 NY  |  21:00 Berlin  unberührt         (Abstand 122,75)
+  PWH       31.289,25   So 11.10. 19:30 NY  |  01:30 Berlin  unberührt         (Abstand -1.897,75)
+  PWL       29.268,75   Fr 16.10. 15:00 NY  |  21:00 Berlin  unberührt         (Abstand 122,75)
+
+ Marktstruktur (Swing-Länge Daily 2 / H4 2, Bruch nur per Kerzenkörper, Kerzen-MSS: Daily)
+ ----------------------------------------------------------------------------------
+  Weekly  Trend: BULLISH   (nur Info)
+           letztes Swing High:    30.343,00  (KW 34/2026)
+           letztes Swing Low :    28.816,25  (KW 38/2026)
+           MSS nach unten KW 12/2026: Swing 24.239,75 gebrochen
+           MSS nach oben  KW 16/2026: Swing 25.494,75 gebrochen
+           BOS nach oben  KW 39/2026: Swing 30.343,00 gebrochen
+
+  Daily   Trend: BEARISH
+           letztes Swing High:    31.616,50  (Di 06.10.2026)
+           letztes Swing Low :    30.792,00  (Do 08.10.2026)
+           BOS nach oben  Mo 05.10.2026: Swing 31.094,75 gebrochen
+           MSS nach unten Do 08.10.2026: Tief der High-Kerze vom Di 06.10.2026 (31.309,25) per Körper gebrochen
+           BOS nach unten Di 13.10.2026: Swing 30.792,00 gebrochen
+
+  H4      Trend: BEARISH
+           letztes Swing High:    30.225,00  (Do 15.10. 22:00 NY  |  04:00 Berlin)
+           letztes Swing Low :    29.622,50  (Do 15.10. 06:00 NY  |  12:00 Berlin)
+           BOS nach unten Mi 14.10. 06:00 NY  |  12:00 Berlin: Swing 30.591,25 gebrochen
+           MSS nach oben  Do 15.10. 22:00 NY  |  04:00 Berlin: Swing 30.182,75 gebrochen
+           MSS nach unten Fr 16.10. 10:00 NY  |  16:00 Berlin: Swing 29.622,50 gebrochen
+
+  Daily-Bein (Dealing Range):
+     Protected High     31.466,00  (Do 08.10.2026)
+     Bein-Tief          29.268,75  (Fr 16.10. 14:00 NY  |  20:00 Berlin)
+     Equilibrium       30.367,38  (50 %)
+     Preis 29.391,50 liegt bei 6% der Range -> Discount
+
+  ==> HTF-Trend: BEARISH
+      H4-Phase : H4-Retracement beendet
+      + Daily: letzter Bruch = BOS nach unten
+      + Daily: Protected High hält
+      + H4: MSS zurück in Daily-Richtung – Retracement beendet (reichte bis 44% des Daily-Beins)
+      - Preis im Daily-Discount – für bearish lieber auf Rücklauf in den Premium warten
+      - H4: Retracement blieb im Discount (unter 50 %) – Daily-Bereich nicht erreicht
+      i Weekly (nur Info): bullish
+
+ Daily Bias
+ ----------------------------------------------------------------------------------
+  ==> BIAS: BEARISH   (Konfidenz 80 %)
+      Previous Day: Vortag (Fr 16.10.) schloss unter dem Tief vom Do 15.10. (29.622,50) -> bearishe Fortsetzung Richtung Sell-Side Liquidity
+      + Daily BOS nach unten, Trend bestätigt (+10)
+      + H4-MSS zurück in Daily-Richtung, Retracement aber flach (+5)
+      + Vortag (Fr 16.10.) schloss unter dem Tief vom Do 15.10. (29.622,50) -> bearishe Fortsetzung Richtung Sell-Side Liquidity (+15)
+      + DOL: PDL / PWL bei 29.268,75 (+10)
+      - Preis im Daily-Discount (6% der Range), für bearish besser im Premium (-10)
+      Liquiditätsziele in HTF-Richtung (nächstes = DOL):
+           29.268,75  PDL / PWL
+           28.831,75  Daily-FVG Mo 03.08.
+           28.816,25  Swing Low Mo 14.09.
+           27.201,50  Swing Low Mi 29.07.
+
+ POIs (Points of Interest)
+ ----------------------------------------------------------------------------------
+  Stufe A – Daily (Richtung bearish):
+    Daily-FVG  30.196,75–30.591,25  Mi 14.10.2026  Mitigation: teilweise  Premium   Abstand 805,25  -> handelbar
+    Daily-FVG  30.906,00–30.953,00  Mo 12.10.2026  Mitigation: keine      Premium   Abstand 1.514,50  -> handelbar
+
+  Stufe B – H4 (zählt nur mit >= 3/4 Bestätigungen, Richtung + Bereich ist Pflicht):
+    H4-FVG     29.461,75–29.802,25  16.10. 10:00 NY  Mitigation: keine  Abstand 70,25  -> zählt nicht (1/4)
+        [ ] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [ ] Daily-Überschneidung
+    H4-FVG     29.947,00–30.088,50  16.10. 06:00 NY  Mitigation: keine  Abstand 555,50  -> zählt nicht (0/4)
+        [ ] Richtung+Bereich  [ ] Displacement  [ ] Sweep davor  [ ] Daily-Überschneidung
+    H4-OB      30.043,25–30.225,00  15.10. 22:00 NY  Mitigation: keine  Abstand 651,75  -> zählt nicht (2/4)
+        [ ] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [x] Daily-Überschneidung
+    H4-FVG     30.237,00–30.465,75  14.10. 10:00 NY  Mitigation: keine  Abstand 845,50  -> zählt nicht (2/4)
+        [ ] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [x] Daily-Überschneidung
+    H4-FVG     30.538,25–30.705,25  14.10. 06:00 NY  Mitigation: keine  Abstand 1.146,75  -> ZÄHLT (Stufe B, 3/4)
+        [x] Richtung+Bereich  [x] Displacement  [ ] Sweep davor  [x] Daily-Überschneidung
+
+  22 offene POIs GEGEN die HTF-Richtung ausgeblendet (harte Regel 1: nie handelbar)
+
+ Sweep-Punkte (Beobachtungsliste – den Sweep bewertest DU im M15)
+ ----------------------------------------------------------------------------------
+  GÜLTIG   PDH     30.225,00   Abstand     833,50   Status (M15): offen
+  GÜLTIG   PWH     31.289,25   Abstand   1.897,75   Status (M15): offen
+  ungültig PDL     29.268,75   Abstand    -122,75   Status (M15): offen
+  ungültig PWL     29.268,75   Abstand    -122,75   Status (M15): offen
+  -> Bias bearish: nur Sweeps von Hochs sind gültig (harte Regel 2)
+     (Session Highs/Lows kommen als weitere Sweep-Punkte noch dazu)
+
+ Checkliste im M15 (selbst prüfen):
+  [ ] Preis sticht über ein gültiges Hoch (Docht jenseits des Levels)
+  [ ] Starke Ablehnung der anderen Seite – eins von beiden:
+        a) kleiner bearisher Körper + langer oberer Docht
+        b) bullisher Körper, danach mind. gleich großer bearisher Körper
+  [ ] Schluss wieder auf der richtigen Seite des Levels
+  [ ] Danach MSS nach unten per Kerzenkörper
+  [ ] FVG aus dieser Bewegung als möglicher Entry-Bereich
+
+================================================================
+ ZUSAMMENFASSUNG
+================================================================
+ US100 – Bias: BEARISH (Konfidenz 80 %).
+ Gründe dafür: Daily BOS nach unten, Trend bestätigt; H4-MSS zurück in Daily-Richtung, Retracement aber flach; Vortag (Fr 16.10.) schloss unter dem Tief vom Do 15.10. (29.622,50) -> bearishe Fortsetzung Richtung Sell-Side Liquidity.
+ Dagegen: Preis im Daily-Discount (6% der Range), für bearish besser im Premium.
+ DOL: PDL / PWL bei 29.268,75.
+ Gültige Sweep-Punkte: PDH 30.225,00 (offen), PWH 31.289,25 (offen).
+ POIs: Daily-FVG 30.196,75–30.591,25 (Stufe A), H4-FVG 30.538,25–30.705,25 (Stufe B, 3/4 Bestätigungen), Daily-FVG 30.906,00–30.953,00 (Stufe A).
+
+ Checkliste vor dem Trade:
+  [x] Bias klar?
+  [x] Trade in HTF-Richtung? (Daily: nur bearishe Trades erlaubt)
+  [ ] Gültiger Sweep? (selbst im M15 prüfen, siehe Checkliste oben)
+  [ ] POI-Stufe? Preis noch in keinem POI – nächster: Daily-FVG 30.196,75–30.591,25 (Stufe A)
+  [ ] M15-Bestätigung? (MSS per Körper + FVG)
+
+ Hinweis: Entscheidungshilfe, kein Signal. Die Entscheidung triffst du.
+

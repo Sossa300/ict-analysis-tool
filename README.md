@@ -109,6 +109,10 @@ All settings (instruments, sessions, swing length, scoring points, thresholds) l
 
 ---
 
+## License
+
+MIT – see [LICENSE](LICENSE).
+
 ## 🇩🇪 Kurzfassung
 
 Python-Tool für ICT-Top-Down-Analysen (Daily → H4 → M15): lädt Kursdaten (yfinance oder CSV),
